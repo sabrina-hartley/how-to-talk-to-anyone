@@ -1,6 +1,6 @@
-# 3 Formatting Moves That Make Your Message Scannable and Critical Information Impossible to Miss
+# How to Format Workplace Emails People Actually Read
 
-## The same words, reformatted in under 60 seconds, turned a 2-reply email into an 11-reply email.
+## Bold the ask, list the items, label the sections. Same words, completely different outcome.
 
 ![Scanability: from wall of text to structured clarity](./img/wall-of-text.png)
 
