@@ -1,8 +1,8 @@
 # The Hardest Worker on Your Team Doesn't Trust a Word of Your Praise
 
-![Farmer Three: Security](./img/farmer-three-security.png)
-
 ## They wanted proof, and you gave them adjectives.
+
+![Farmer Three: Security](./img/farmer-three-security.png)
 
 A VP closed out the quarterly review with a handwritten note to their top engineer: "You are amazing and always so helpful. The team couldn't do it without you!" They meant it. They were genuinely grateful.
 

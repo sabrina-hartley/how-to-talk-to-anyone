@@ -1,8 +1,8 @@
 # The Coworker Who Ghosts Your Slack Messages Isn't Rude. You're Just Loud.
 
-![Farmer Five: Castle](./img/farmer-five-castle.png)
-
 ## Keep pinging them and you'll get silence because you've become the threat.
+
+![Farmer Five: Castle](./img/farmer-five-castle.png)
 
 You wrote a friendly Slack message to a senior engineer on your team. "Hey! Just checking in — wanted to see how you're feeling about the project direction. Would love to hop on a quick call to brainstorm some ideas. I think your perspective would really add a lot!"
 

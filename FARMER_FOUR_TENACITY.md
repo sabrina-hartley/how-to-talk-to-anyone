@@ -1,8 +1,8 @@
 # "Stay Positive" Is the Worst Thing You Can Say to This Person
 
-![Farmer Four: Tenacity](./img/farmer-four-tenacity.png)
-
 ## They've been grinding through worse than you know. Your optimism just told them you haven't noticed.
+
+![Farmer Four: Tenacity](./img/farmer-four-tenacity.png)
 
 A well-meaning colleague watched their teammate push through a brutal three-week sprint, understaffed, under-scoped, and dealing with a vendor meltdown that nobody else wanted to touch. When it finally shipped, they dropped a message in the team channel: "You've been through so much and it will be okay! Just stay positive and keep going. Everything will work out."
 

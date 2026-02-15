@@ -1,8 +1,8 @@
 # Your Reassurance Is Making Them Trust You Less
 
-![Farmer Six: Warmth](./img/farmer-six-warmth.png)
-
 ## When you tell a Farmer Six "don't worry," they hear "I haven't thought about what could go wrong."
+
+![Farmer Six: Warmth](./img/farmer-six-warmth.png)
 
 Your project lead emailed the team on Monday morning: "Big news — we're restructuring the Q3 roadmap. Details coming soon. Don't worry, everything is going to be great!"
 
