@@ -100,6 +100,6 @@ High-performing organizations vary framing, personalize delivery, and design com
 
 **Use the free prompt.** Paste your draft into ChatGPT, Claude, or any LLM, then paste the prompt from the article. The model rewrites your message for that subtype.
 
-**Pair with the AI Smells guide.** This series fixes *who* your message targets. The [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md) fixes *how* your AI writes. Use both.
+**Pair with the companion guides.** This series fixes *who* your message targets. The [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md) fixes *how* your AI writes. The [Formatting Optimizer](./you-look-like-a-wall-of-text-2026-02-15.md) fixes *how your message looks*. Use all three.
 
 **Go deeper.** This is what [Rally](https://www.rally.ai/) does automatically: communications optimized for each person's instinctual profile, at scale, without the manual prompting.

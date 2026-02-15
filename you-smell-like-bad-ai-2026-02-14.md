@@ -98,7 +98,7 @@ That's the bar now. Learn the smells, sharpen your prompting, and develop the ed
 
 #### Nobody is going to tell you that you smell. Consider this the courtesy.
 
-It's why we're building [Rally](https://www.rally.ai/), odor-free communications optimized for employee engagement. Now that you know how to fix how your AI writes, fix who it writes for: [How to Talk to Anyone — 27 Subtype Communication Guides](./README.md).
+It's why we're building [Rally](https://www.rally.ai/), odor-free communications optimized for employee engagement. Now that you know how to fix how your AI writes, fix how it looks: [You Look Like a Wall of Text](./you-look-like-a-wall-of-text-2026-02-15.md). Then fix who it writes for: [How to Talk to Anyone](./README.md).
 
 
 ---
