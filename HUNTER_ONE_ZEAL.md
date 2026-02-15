@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 3 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Teamer One: Non-Adaptability](./img/thumbs/teamer-one-non-adaptability.png)](./TEAMER_ONE_NON_ADAPTABILITY.md) [Teamer One: Non-Adaptability](./TEAMER_ONE_NON_ADAPTABILITY.md) |
-| Next | [![Farmer Two: Privilege](./img/thumbs/farmer-two-privilege.png)](./FARMER_TWO_PRIVILEGE.md) [Farmer Two: Privilege](./FARMER_TWO_PRIVILEGE.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/teamer-one-non-adaptability.png)](./TEAMER_ONE_NON_ADAPTABILITY.md) | Previous | [Teamer One: Non-Adaptability](./TEAMER_ONE_NON_ADAPTABILITY.md) |
+| [![](./img/thumbs/farmer-two-privilege.png)](./FARMER_TWO_PRIVILEGE.md) | Next | [Farmer Two: Privilege](./FARMER_TWO_PRIVILEGE.md) |
 
 [Back to series index](./README.md)

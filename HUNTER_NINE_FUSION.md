@@ -113,8 +113,8 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 27 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Teamer Nine: Participation](./img/thumbs/teamer-nine-participation.png)](./TEAMER_NINE_PARTICIPATION.md) [Teamer Nine: Participation](./TEAMER_NINE_PARTICIPATION.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/teamer-nine-participation.png)](./TEAMER_NINE_PARTICIPATION.md) | Previous | [Teamer Nine: Participation](./TEAMER_NINE_PARTICIPATION.md) |
 
 [Back to series index](./README.md)

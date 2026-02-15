@@ -116,9 +116,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 22 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Farmer Seven: Keepers of the Castle](./img/thumbs/farmer-seven-keepers.png)](./FARMER_SEVEN_KEEPERS.md) [Farmer Seven: Keepers of the Castle](./FARMER_SEVEN_KEEPERS.md) |
-| Next | [![Teamer Eight: Solidarity](./img/thumbs/teamer-eight-solidarity.png)](./TEAMER_EIGHT_SOLIDARITY.md) [Teamer Eight: Solidarity](./TEAMER_EIGHT_SOLIDARITY.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/farmer-seven-keepers.png)](./FARMER_SEVEN_KEEPERS.md) | Previous | [Farmer Seven: Keepers of the Castle](./FARMER_SEVEN_KEEPERS.md) |
+| [![](./img/thumbs/teamer-eight-solidarity.png)](./TEAMER_EIGHT_SOLIDARITY.md) | Next | [Teamer Eight: Solidarity](./TEAMER_EIGHT_SOLIDARITY.md) |
 
 [Back to series index](./README.md)

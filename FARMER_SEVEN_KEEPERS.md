@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 19 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Hunter Six: Strength](./img/thumbs/hunter-six-strength.png)](./HUNTER_SIX_STRENGTH.md) [Hunter Six: Strength](./HUNTER_SIX_STRENGTH.md) |
-| Next | [![Teamer Seven: Sacrifice](./img/thumbs/teamer-seven-sacrifice.png)](./TEAMER_SEVEN_SACRIFICE.md) [Teamer Seven: Sacrifice](./TEAMER_SEVEN_SACRIFICE.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/hunter-six-strength.png)](./HUNTER_SIX_STRENGTH.md) | Previous | [Hunter Six: Strength](./HUNTER_SIX_STRENGTH.md) |
+| [![](./img/thumbs/teamer-seven-sacrifice.png)](./TEAMER_SEVEN_SACRIFICE.md) | Next | [Teamer Seven: Sacrifice](./TEAMER_SEVEN_SACRIFICE.md) |
 
 [Back to series index](./README.md)

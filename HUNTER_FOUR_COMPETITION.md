@@ -113,9 +113,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 12 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Teamer Four: Shame](./img/thumbs/teamer-four-shame.png)](./TEAMER_FOUR_SHAME.md) [Teamer Four: Shame](./TEAMER_FOUR_SHAME.md) |
-| Next | [![Farmer Five: Castle](./img/thumbs/farmer-five-castle.png)](./FARMER_FIVE_CASTLE.md) [Farmer Five: Castle](./FARMER_FIVE_CASTLE.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/teamer-four-shame.png)](./TEAMER_FOUR_SHAME.md) | Previous | [Teamer Four: Shame](./TEAMER_FOUR_SHAME.md) |
+| [![](./img/thumbs/farmer-five-castle.png)](./FARMER_FIVE_CASTLE.md) | Next | [Farmer Five: Castle](./FARMER_FIVE_CASTLE.md) |
 
 [Back to series index](./README.md)

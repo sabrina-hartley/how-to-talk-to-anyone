@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 18 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Teamer Six: Duty](./img/thumbs/teamer-six-duty.png)](./TEAMER_SIX_DUTY.md) [Teamer Six: Duty](./TEAMER_SIX_DUTY.md) |
-| Next | [![Farmer Seven: Keepers](./img/thumbs/farmer-seven-keepers.png)](./FARMER_SEVEN_KEEPERS.md) [Farmer Seven: Keepers](./FARMER_SEVEN_KEEPERS.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/teamer-six-duty.png)](./TEAMER_SIX_DUTY.md) | Previous | [Teamer Six: Duty](./TEAMER_SIX_DUTY.md) |
+| [![](./img/thumbs/farmer-seven-keepers.png)](./FARMER_SEVEN_KEEPERS.md) | Next | [Farmer Seven: Keepers](./FARMER_SEVEN_KEEPERS.md) |
 
 [Back to series index](./README.md)

@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 4 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Hunter One: Zeal](./img/thumbs/hunter-one-zeal.png)](./HUNTER_ONE_ZEAL.md) [Hunter One: Zeal](./HUNTER_ONE_ZEAL.md) |
-| Next | [![Teamer Two: Ambition](./img/thumbs/teamer-two-ambition.png)](./TEAMER_TWO_AMBITION.md) [Teamer Two: Ambition](./TEAMER_TWO_AMBITION.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/hunter-one-zeal.png)](./HUNTER_ONE_ZEAL.md) | Previous | [Hunter One: Zeal](./HUNTER_ONE_ZEAL.md) |
+| [![](./img/thumbs/teamer-two-ambition.png)](./TEAMER_TWO_AMBITION.md) | Next | [Teamer Two: Ambition](./TEAMER_TWO_AMBITION.md) |
 
 [Back to series index](./README.md)

@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 10 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Hunter Three: Charisma](./img/thumbs/hunter-three-charisma.png)](./HUNTER_THREE_CHARISMA.md) [Hunter Three: Charisma](./HUNTER_THREE_CHARISMA.md) |
-| Next | [![Teamer Four: Shame](./img/thumbs/teamer-four-shame.png)](./TEAMER_FOUR_SHAME.md) [Teamer Four: Shame](./TEAMER_FOUR_SHAME.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/hunter-three-charisma.png)](./HUNTER_THREE_CHARISMA.md) | Previous | [Hunter Three: Charisma](./HUNTER_THREE_CHARISMA.md) |
+| [![](./img/thumbs/teamer-four-shame.png)](./TEAMER_FOUR_SHAME.md) | Next | [Teamer Four: Shame](./TEAMER_FOUR_SHAME.md) |
 
 [Back to series index](./README.md)

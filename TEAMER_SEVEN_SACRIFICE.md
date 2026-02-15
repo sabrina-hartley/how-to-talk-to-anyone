@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 20 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Farmer Seven: Keepers](./img/thumbs/farmer-seven-keepers.png)](./FARMER_SEVEN_KEEPERS.md) [Farmer Seven: Keepers](./FARMER_SEVEN_KEEPERS.md) |
-| Next | [![Hunter Seven: Suggestibility](./img/thumbs/hunter-seven-suggestibility.png)](./HUNTER_SEVEN_SUGGESTIBILITY.md) [Hunter Seven: Suggestibility](./HUNTER_SEVEN_SUGGESTIBILITY.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/farmer-seven-keepers.png)](./FARMER_SEVEN_KEEPERS.md) | Previous | [Farmer Seven: Keepers](./FARMER_SEVEN_KEEPERS.md) |
+| [![](./img/thumbs/hunter-seven-suggestibility.png)](./HUNTER_SEVEN_SUGGESTIBILITY.md) | Next | [Hunter Seven: Suggestibility](./HUNTER_SEVEN_SUGGESTIBILITY.md) |
 
 [Back to series index](./README.md)

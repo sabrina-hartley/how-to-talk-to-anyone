@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 5 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Farmer Two: Privilege](./img/thumbs/farmer-two-privilege.png)](./FARMER_TWO_PRIVILEGE.md) [Farmer Two: Privilege](./FARMER_TWO_PRIVILEGE.md) |
-| Next | [![Hunter Two: Seduction](./img/thumbs/hunter-two-seduction.png)](./HUNTER_TWO_SEDUCTION.md) [Hunter Two: Seduction](./HUNTER_TWO_SEDUCTION.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/farmer-two-privilege.png)](./FARMER_TWO_PRIVILEGE.md) | Previous | [Farmer Two: Privilege](./FARMER_TWO_PRIVILEGE.md) |
+| [![](./img/thumbs/hunter-two-seduction.png)](./HUNTER_TWO_SEDUCTION.md) | Next | [Hunter Two: Seduction](./HUNTER_TWO_SEDUCTION.md) |
 
 [Back to series index](./README.md)

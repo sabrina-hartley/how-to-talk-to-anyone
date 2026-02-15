@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 25 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Hunter Eight: Possession](./img/thumbs/hunter-eight-possession.png)](./HUNTER_EIGHT_POSSESSION.md) [Hunter Eight: Possession](./HUNTER_EIGHT_POSSESSION.md) |
-| Next | [![Teamer Nine: Participation](./img/thumbs/teamer-nine-participation.png)](./TEAMER_NINE_PARTICIPATION.md) [Teamer Nine: Participation](./TEAMER_NINE_PARTICIPATION.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/hunter-eight-possession.png)](./HUNTER_EIGHT_POSSESSION.md) | Previous | [Hunter Eight: Possession](./HUNTER_EIGHT_POSSESSION.md) |
+| [![](./img/thumbs/teamer-nine-participation.png)](./TEAMER_NINE_PARTICIPATION.md) | Next | [Teamer Nine: Participation](./TEAMER_NINE_PARTICIPATION.md) |
 
 [Back to series index](./README.md)

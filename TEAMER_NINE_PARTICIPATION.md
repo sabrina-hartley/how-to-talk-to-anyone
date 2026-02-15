@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 26 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Farmer Nine: Appetite](./img/thumbs/farmer-nine-appetite.png)](./FARMER_NINE_APPETITE.md) [Farmer Nine: Appetite](./FARMER_NINE_APPETITE.md) |
-| Next | [![Hunter Nine: Fusion](./img/thumbs/hunter-nine-fusion.png)](./HUNTER_NINE_FUSION.md) [Hunter Nine: Fusion](./HUNTER_NINE_FUSION.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/farmer-nine-appetite.png)](./FARMER_NINE_APPETITE.md) | Previous | [Farmer Nine: Appetite](./FARMER_NINE_APPETITE.md) |
+| [![](./img/thumbs/hunter-nine-fusion.png)](./HUNTER_NINE_FUSION.md) | Next | [Hunter Nine: Fusion](./HUNTER_NINE_FUSION.md) |
 
 [Back to series index](./README.md)

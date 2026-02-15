@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 14 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Farmer Five: Castle](./img/thumbs/farmer-five-castle.png)](./FARMER_FIVE_CASTLE.md) [Farmer Five: Castle](./FARMER_FIVE_CASTLE.md) |
-| Next | [![Hunter Five: Confidence](./img/thumbs/hunter-five-confidence.png)](./HUNTER_FIVE_CONFIDENCE.md) [Hunter Five: Confidence](./HUNTER_FIVE_CONFIDENCE.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/farmer-five-castle.png)](./FARMER_FIVE_CASTLE.md) | Previous | [Farmer Five: Castle](./FARMER_FIVE_CASTLE.md) |
+| [![](./img/thumbs/hunter-five-confidence.png)](./HUNTER_FIVE_CONFIDENCE.md) | Next | [Hunter Five: Confidence](./HUNTER_FIVE_CONFIDENCE.md) |
 
 [Back to series index](./README.md)

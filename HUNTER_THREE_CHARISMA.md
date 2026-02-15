@@ -113,9 +113,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 9 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Teamer Three: Prestige](./img/thumbs/teamer-three-prestige.png)](./TEAMER_THREE_PRESTIGE.md) [Teamer Three: Prestige](./TEAMER_THREE_PRESTIGE.md) |
-| Next | [![Farmer Four: Tenacity](./img/thumbs/farmer-four-tenacity.png)](./FARMER_FOUR_TENACITY.md) [Farmer Four: Tenacity](./FARMER_FOUR_TENACITY.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/teamer-three-prestige.png)](./TEAMER_THREE_PRESTIGE.md) | Previous | [Teamer Three: Prestige](./TEAMER_THREE_PRESTIGE.md) |
+| [![](./img/thumbs/farmer-four-tenacity.png)](./FARMER_FOUR_TENACITY.md) | Next | [Farmer Four: Tenacity](./FARMER_FOUR_TENACITY.md) |
 
 [Back to series index](./README.md)

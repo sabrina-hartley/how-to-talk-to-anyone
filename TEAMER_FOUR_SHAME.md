@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 11 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Farmer Four: Tenacity](./img/thumbs/farmer-four-tenacity.png)](./FARMER_FOUR_TENACITY.md) [Farmer Four: Tenacity](./FARMER_FOUR_TENACITY.md) |
-| Next | [![Hunter Four: Competition](./img/thumbs/hunter-four-competition.png)](./HUNTER_FOUR_COMPETITION.md) [Hunter Four: Competition](./HUNTER_FOUR_COMPETITION.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/farmer-four-tenacity.png)](./FARMER_FOUR_TENACITY.md) | Previous | [Farmer Four: Tenacity](./FARMER_FOUR_TENACITY.md) |
+| [![](./img/thumbs/hunter-four-competition.png)](./HUNTER_FOUR_COMPETITION.md) | Next | [Hunter Four: Competition](./HUNTER_FOUR_COMPETITION.md) |
 
 [Back to series index](./README.md)

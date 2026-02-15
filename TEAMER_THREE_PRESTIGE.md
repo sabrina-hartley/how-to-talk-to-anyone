@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 8 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Farmer Three: Security](./img/thumbs/farmer-three-security.png)](./FARMER_THREE_SECURITY.md) [Farmer Three: Security](./FARMER_THREE_SECURITY.md) |
-| Next | [![Hunter Three: Charisma](./img/thumbs/hunter-three-charisma.png)](./HUNTER_THREE_CHARISMA.md) [Hunter Three: Charisma](./HUNTER_THREE_CHARISMA.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/farmer-three-security.png)](./FARMER_THREE_SECURITY.md) | Previous | [Farmer Three: Security](./FARMER_THREE_SECURITY.md) |
+| [![](./img/thumbs/hunter-three-charisma.png)](./HUNTER_THREE_CHARISMA.md) | Next | [Hunter Three: Charisma](./HUNTER_THREE_CHARISMA.md) |
 
 [Back to series index](./README.md)

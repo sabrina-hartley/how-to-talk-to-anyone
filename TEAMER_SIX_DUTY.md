@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 17 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Farmer Six: Warmth](./img/thumbs/farmer-six-warmth.png)](./FARMER_SIX_WARMTH.md) [Farmer Six: Warmth](./FARMER_SIX_WARMTH.md) |
-| Next | [![Hunter Six: Strength](./img/thumbs/hunter-six-strength.png)](./HUNTER_SIX_STRENGTH.md) [Hunter Six: Strength](./HUNTER_SIX_STRENGTH.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/farmer-six-warmth.png)](./FARMER_SIX_WARMTH.md) | Previous | [Farmer Six: Warmth](./FARMER_SIX_WARMTH.md) |
+| [![](./img/thumbs/hunter-six-strength.png)](./HUNTER_SIX_STRENGTH.md) | Next | [Hunter Six: Strength](./HUNTER_SIX_STRENGTH.md) |
 
 [Back to series index](./README.md)

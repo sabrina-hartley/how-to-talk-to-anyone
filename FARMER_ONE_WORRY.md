@@ -114,8 +114,8 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 1 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Next | [![Teamer One: Non-Adaptability](./img/thumbs/teamer-one-non-adaptability.png)](./TEAMER_ONE_NON_ADAPTABILITY.md) [Teamer One: Non-Adaptability](./TEAMER_ONE_NON_ADAPTABILITY.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/teamer-one-non-adaptability.png)](./TEAMER_ONE_NON_ADAPTABILITY.md) | Next | [Teamer One: Non-Adaptability](./TEAMER_ONE_NON_ADAPTABILITY.md) |
 
 [Back to series index](./README.md)

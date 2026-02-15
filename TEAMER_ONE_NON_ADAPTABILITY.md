@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 2 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Farmer One: Worry](./img/thumbs/farmer-one-worry.png)](./FARMER_ONE_WORRY.md) [Farmer One: Worry](./FARMER_ONE_WORRY.md) |
-| Next | [![Hunter One: Zeal](./img/thumbs/hunter-one-zeal.png)](./HUNTER_ONE_ZEAL.md) [Hunter One: Zeal](./HUNTER_ONE_ZEAL.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/farmer-one-worry.png)](./FARMER_ONE_WORRY.md) | Previous | [Farmer One: Worry](./FARMER_ONE_WORRY.md) |
+| [![](./img/thumbs/hunter-one-zeal.png)](./HUNTER_ONE_ZEAL.md) | Next | [Hunter One: Zeal](./HUNTER_ONE_ZEAL.md) |
 
 [Back to series index](./README.md)

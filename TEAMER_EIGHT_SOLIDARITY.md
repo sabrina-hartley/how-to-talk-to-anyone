@@ -114,9 +114,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 23 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Farmer Eight: Satisfaction](./img/thumbs/farmer-eight-satisfaction.png)](./FARMER_EIGHT_SATISFACTION.md) [Farmer Eight: Satisfaction](./FARMER_EIGHT_SATISFACTION.md) |
-| Next | [![Hunter Eight: Possession](./img/thumbs/hunter-eight-possession.png)](./HUNTER_EIGHT_POSSESSION.md) [Hunter Eight: Possession](./HUNTER_EIGHT_POSSESSION.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/farmer-eight-satisfaction.png)](./FARMER_EIGHT_SATISFACTION.md) | Previous | [Farmer Eight: Satisfaction](./FARMER_EIGHT_SATISFACTION.md) |
+| [![](./img/thumbs/hunter-eight-possession.png)](./HUNTER_EIGHT_POSSESSION.md) | Next | [Hunter Eight: Possession](./HUNTER_EIGHT_POSSESSION.md) |
 
 [Back to series index](./README.md)

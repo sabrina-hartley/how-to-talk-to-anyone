@@ -113,9 +113,9 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 **This is Part 15 of a 27-part series on subtype-specific communication.**
 
-| | |
-|---|---|
-| Previous | [![Teamer Five: Totem](./img/thumbs/teamer-five-totem.png)](./TEAMER_FIVE_TOTEM.md) [Teamer Five: Totem](./TEAMER_FIVE_TOTEM.md) |
-| Next | [![Farmer Six: Warmth](./img/thumbs/farmer-six-warmth.png)](./FARMER_SIX_WARMTH.md) [Farmer Six: Warmth](./FARMER_SIX_WARMTH.md) |
+| | | |
+|---|---|---|
+| [![](./img/thumbs/teamer-five-totem.png)](./TEAMER_FIVE_TOTEM.md) | Previous | [Teamer Five: Totem](./TEAMER_FIVE_TOTEM.md) |
+| [![](./img/thumbs/farmer-six-warmth.png)](./FARMER_SIX_WARMTH.md) | Next | [Farmer Six: Warmth](./FARMER_SIX_WARMTH.md) |
 
 [Back to series index](./README.md)
