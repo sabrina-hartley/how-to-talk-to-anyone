@@ -18,7 +18,11 @@ Every guide below profiles one subtype: what triggers them, what shuts them down
 
 ---
 
-## Farmer Subtypes
+## Farmer Subtypes: Engagement Through Clarity
+
+Farmers engage when communication removes uncertainty. They want to understand how change works in practice and what it means for daily execution. Their questions are practical: What exactly is changing? What do I need to do differently? What happens next?
+
+Clear timelines, step-by-step guidance, and operational detail drive adoption. Personalized messaging that connects initiatives to responsibilities, workflows, and outcomes builds confidence and speeds execution. Vague inspiration creates hesitation. Without clarity, Farmers wait rather than act.
 
 | | Subtype | Type | Core Filter | Key Risk |
 |---|---|---|---|---|
@@ -32,7 +36,11 @@ Every guide below profiles one subtype: what triggers them, what shuts them down
 | [![](./img/thumbs/farmer-eight-satisfaction.png)](./FARMER_EIGHT_SATISFACTION.md) | [Satisfaction](./FARMER_EIGHT_SATISFACTION.md) | Eight | Timely satisfaction of material needs with zero frustration tolerance | Indirect openers |
 | [![](./img/thumbs/farmer-nine-appetite.png)](./FARMER_NINE_APPETITE.md) | [Appetite](./FARMER_NINE_APPETITE.md) | Nine | Maintain comfort through routine, concrete activity, and low friction | Abstract strategy talk |
 
-## Teamer Subtypes
+## Teamer Subtypes: Engagement Through Connection
+
+Teamers engage when communication strengthens alignment. They care about how decisions affect people and whether the organization is moving together. They look for: Why are we doing this? How does this help our team succeed? Who else is involved?
+
+Messages that include leadership voice, peer participation, and visible collaboration build trust. Personalized communication that acknowledges team impact or reinforces shared purpose increases adoption because people see themselves inside the change. Transactional announcements feel disconnected and are quickly ignored.
 
 | | Subtype | Type | Core Filter | Key Risk |
 |---|---|---|---|---|
@@ -46,7 +54,11 @@ Every guide below profiles one subtype: what triggers them, what shuts them down
 | [![](./img/thumbs/teamer-eight-solidarity.png)](./TEAMER_EIGHT_SOLIDARITY.md) | [Solidarity](./TEAMER_EIGHT_SOLIDARITY.md) | Eight | Use strength to protect others and lead with loyal action | Detached analysis without protective mission |
 | [![](./img/thumbs/teamer-nine-participation.png)](./TEAMER_NINE_PARTICIPATION.md) | [Participation](./TEAMER_NINE_PARTICIPATION.md) | Nine | Belong through group participation while losing personal priorities | Exclusion cues |
 
-## Hunter Subtypes
+## Hunter Subtypes: Engagement Through Momentum
+
+Hunters engage when communication signals forward movement. They want to know what is changing, where the organization is going, and how they can be part of progress. They read messages to answer three questions: What's new? Why now? Where does this lead?
+
+Announcements framed around growth, innovation, or new capability capture their attention immediately. Personalized communication that highlights opportunity, ownership, or impact turns awareness into action. Dense policy explanations lose them. Messages that feel static or procedural disappear into background noise.
 
 | | Subtype | Type | Core Filter | Key Risk |
 |---|---|---|---|---|
@@ -59,6 +71,26 @@ Every guide below profiles one subtype: what triggers them, what shuts them down
 | [![](./img/thumbs/hunter-seven-suggestibility.png)](./HUNTER_SEVEN_SUGGESTIBILITY.md) | [Suggestibility](./HUNTER_SEVEN_SUGGESTIBILITY.md) | Seven | Pursue exciting possibilities with enthusiastic imaginative focus | Dream stacking without execution |
 | [![](./img/thumbs/hunter-eight-possession.png)](./HUNTER_EIGHT_POSSESSION.md) | [Possession](./HUNTER_EIGHT_POSSESSION.md) | Eight | Secure influence and power through intensity and environmental control | Passive requesting |
 | [![](./img/thumbs/hunter-nine-fusion.png)](./HUNTER_NINE_FUSION.md) | [Fusion](./HUNTER_NINE_FUSION.md) | Nine | Maintain connection by merging with significant others | Speaking for them |
+
+---
+
+## Why Employee Engagement Breaks Down
+
+Most organizations communicate in a single instinct language. Vision-heavy messaging energizes Hunters but leaves others unsure what to do. Process-heavy communication satisfies Farmers but fails to motivate action. Culture-focused messaging resonates with Teamers while expectations remain unclear.
+
+Messages reach inboxes but miss attention. Employees disengage not because they don't care, but because communication answers only one set of motivations.
+
+## Personalization Is the Difference
+
+Personalization is often reduced to inserting a name into an email. Real personalization aligns communication with how employees decide to act. Hunters respond to opportunity and progress. Farmers respond to clarity and certainty. Teamers respond to connection and shared purpose.
+
+When communication platforms adapt framing, emphasis, and delivery to these instincts, engagement rises quickly. Employees recognize relevance because the message matches how they naturally process change. Communication stops competing for attention and starts earning it.
+
+## What This Means for Leaders and HR
+
+Employee engagement improves when communication is designed intentionally rather than broadcast uniformly. Before sending a message, ask: Does this show momentum for Hunters? Does it provide clarity for Farmers? Does it reinforce connection for Teamers?
+
+High-performing organizations vary framing, personalize delivery, and design communication systems around human attention rather than organizational convenience. Engagement increases because employees no longer have to adapt to the message. The message meets them where they already are.
 
 ---
 
