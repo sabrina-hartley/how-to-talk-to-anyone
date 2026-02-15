@@ -2,7 +2,7 @@
 
 # They Agreed With Everything You Said. None of It Was Their Opinion.
 
-## You thought you had alignment, but you had compliance from someone who'd lost their own voice.
+## What looked like alignment was compliance from someone who'd lost their own voice.
 
 ![Hunter Nine: Fusion](./img/hunter-nine-fusion.png)
 

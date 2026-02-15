@@ -2,7 +2,7 @@
 
 # You Sent the Results. They Wanted to Know Who Got the Glory.
 
-## Your data was flawless, but your message forgot the people it was supposed to elevate.
+## Flawless data means nothing when your message forgets the people it should elevate.
 
 ![Hunter Three: Charisma](./img/hunter-three-charisma.png)
 

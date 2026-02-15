@@ -2,7 +2,7 @@
 
 # You Asked Nicely. That's Exactly Why They Took Over Your Meeting.
 
-## You gave them a power vacuum and they filled it before you finished talking.
+## The power vacuum you left got filled before you finished talking.
 
 ![Hunter Eight: Possession](./img/hunter-eight-possession.png)
 

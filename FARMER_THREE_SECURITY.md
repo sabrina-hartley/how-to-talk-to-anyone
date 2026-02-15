@@ -2,7 +2,7 @@
 
 # The Hardest Worker on Your Team Doesn't Trust a Word of Your Praise
 
-## They wanted proof, and you gave them adjectives.
+## You gave them adjectives when they wanted proof.
 
 ![Farmer Three: Security](./img/farmer-three-security.png)
 

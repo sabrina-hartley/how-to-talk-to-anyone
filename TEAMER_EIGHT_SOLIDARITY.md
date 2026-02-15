@@ -2,7 +2,7 @@
 
 # Your Empathy Sounded Great. They Needed a Shield.
 
-## This person wants to know you'll fight, and telling them you care proves nothing.
+## Telling this person you care proves nothing until you prove you'll fight.
 
 ![Teamer Eight: Solidarity](./img/teamer-eight-solidarity.png)
 

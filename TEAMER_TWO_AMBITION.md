@@ -2,7 +2,7 @@
 
 # They Don't Want Your Gratitude. They Want the Stage.
 
-## You asked for help, and they heard a demotion.
+## Your request for help landed as a demotion.
 
 ![Teamer Two: Ambition](./img/teamer-two-ambition.png)
 

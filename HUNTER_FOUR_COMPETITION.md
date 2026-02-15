@@ -2,7 +2,7 @@
 
 # "Let's All Get Along" Is the Fastest Way to Lose Someone Who Runs on Conflict
 
-## You tried to de-escalate, and they heard you surrender.
+## De-escalation sounds like surrender to someone who competes for everything.
 
 ![Hunter Four: Competition](./img/hunter-four-competition.png)
 

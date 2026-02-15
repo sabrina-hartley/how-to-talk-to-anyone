@@ -2,7 +2,7 @@
 
 # The Most Agreeable Person on Your Team Is the One You're Failing
 
-## They keep showing up and saying yes, and you have no idea what they actually think.
+## Behind every agreeable "yes" is someone whose real opinion you've never heard.
 
 ![Teamer Nine: Participation](./img/teamer-nine-participation.png)
 

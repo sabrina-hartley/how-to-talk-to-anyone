@@ -2,7 +2,7 @@
 
 # They Loved Your Idea. Then They Chased Six More and Delivered Nothing.
 
-## You never anchored their attention, and now it's scattered across a dozen possibilities.
+## Without an anchor, their attention scattered across a dozen possibilities you'll never collect.
 
 ![Hunter Seven: Suggestibility](./img/hunter-seven-suggestibility.png)
 

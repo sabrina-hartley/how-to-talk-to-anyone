@@ -2,7 +2,7 @@
 
 # They Didn't Ignore Your Request. They Found It Intellectually Empty.
 
-## Your ask had no thesis, so they gave it no time.
+## Without a thesis, your ask earned zero of their attention.
 
 ![Teamer Five: Totem](./img/teamer-five-totem.png)
 
