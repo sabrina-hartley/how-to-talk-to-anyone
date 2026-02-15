@@ -1,3 +1,5 @@
+#### TEAMER SEVEN - SACRIFICE
+
 # They Said Yes to Everything You Asked. That's the Problem.
 
 ## The person most likely to burn out for your mission is the one you keep rewarding for it.

@@ -1,3 +1,5 @@
+#### TEAMER EIGHT - SOLIDARITY
+
 # Your Empathy Sounded Great. They Needed a Shield.
 
 ## This person doesn't want to know you care. They want to know you'll fight.

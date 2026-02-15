@@ -1,3 +1,5 @@
+#### TEAMER ONE - NON-ADAPTABILITY
+
 # Your Perfectly Reasonable Message Just Hit a Wall of Principled Contempt
 
 ## They didn't disagree with your point. They dismissed your reasoning.

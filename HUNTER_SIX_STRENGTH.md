@@ -1,3 +1,5 @@
+#### HUNTER SIX - STRENGTH
+
 # Your Calm, Measured Message Made Them Think You'd Fold Under Pressure
 
 ## They didn't need reassurance. They needed proof you're ready to fight.

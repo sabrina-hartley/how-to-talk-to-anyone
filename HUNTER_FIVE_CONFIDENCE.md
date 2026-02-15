@@ -1,3 +1,5 @@
+#### HUNTER FIVE - CONFIDENCE
+
 # Your Friendly Ping Just Confirmed You Can't Be Trusted
 
 ## They weren't being cold. They were testing whether you'd respect a boundary you didn't know existed.

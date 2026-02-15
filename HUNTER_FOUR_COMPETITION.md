@@ -1,3 +1,5 @@
+#### HUNTER FOUR - COMPETITION
+
 # "Let's All Get Along" Is the Fastest Way to Lose Someone Who Runs on Conflict
 
 ## You tried to de-escalate. They heard you surrender.
