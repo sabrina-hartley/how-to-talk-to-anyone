@@ -2,7 +2,7 @@
 
 # Your Diplomatic Message Just Got Torched by Someone Who Thinks Politeness Is Cowardice
 
-## They didn't miss your point. They judged you for not having the guts to make it sharper.
+## They judged you for not having the guts to make your point sharper.
 
 ![Hunter One: Zeal](./img/hunter-one-zeal.png)
 

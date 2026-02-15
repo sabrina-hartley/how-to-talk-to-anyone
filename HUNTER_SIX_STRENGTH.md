@@ -2,7 +2,7 @@
 
 # Your Calm, Measured Message Made Them Think You'd Fold Under Pressure
 
-## They didn't need reassurance. They needed proof you're ready to fight.
+## They needed proof you're ready to fight, and your reassurance told them you're not.
 
 ![Hunter Six: Strength](./img/hunter-six-strength.png)
 

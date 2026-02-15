@@ -2,7 +2,7 @@
 
 # Your Message Was Clear, Correct, and Completely Ignored
 
-## They didn't reject your idea. They rejected the fact that you didn't cite the policy behind it.
+## They rejected your idea the moment you forgot to cite the policy behind it.
 
 ![Teamer Six: Duty](./img/teamer-six-duty.png)
 

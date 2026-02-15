@@ -2,7 +2,7 @@
 
 # The Nicest Person on Your Team Has Already Found Three Errors in Your Email
 
-## They'll just stop trusting you.
+## They'll quietly stop trusting everything you send.
 
 ![Farmer One: Worry](./img/farmer-one-worry.png)
 

@@ -2,7 +2,7 @@
 
 # Your Perfectly Reasonable Message Just Hit a Wall of Principled Contempt
 
-## They didn't disagree with your point. They dismissed your reasoning.
+## They dismissed your reasoning before they even considered your point.
 
 ![Teamer One: Non-Adaptability](./img/teamer-one-non-adaptability.png)
 

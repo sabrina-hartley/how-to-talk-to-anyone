@@ -2,7 +2,7 @@
 
 # They Didn't Ignore Your Request. They Found It Intellectually Empty.
 
-## Your ask had no thesis. So they gave it no time.
+## Your ask had no thesis, so they gave it no time.
 
 ![Teamer Five: Totem](./img/teamer-five-totem.png)
 

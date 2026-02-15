@@ -2,7 +2,7 @@
 
 # The Most Agreeable Person on Your Team Is the One You're Failing
 
-## They keep showing up. They keep saying yes. And you have no idea what they actually think.
+## They keep showing up and saying yes, and you have no idea what they actually think.
 
 ![Teamer Nine: Participation](./img/teamer-nine-participation.png)
 

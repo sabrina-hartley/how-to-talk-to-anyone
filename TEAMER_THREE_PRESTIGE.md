@@ -2,7 +2,7 @@
 
 # "Let's Do Our Best" Is the Fastest Way to Lose Your Highest Performer
 
-## They didn't lack motivation. They lacked a scoreboard.
+## They had all the motivation they needed and nowhere to track their wins.
 
 ![Teamer Three: Prestige](./img/teamer-three-prestige.png)
 

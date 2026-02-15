@@ -2,7 +2,7 @@
 
 # The Person You're Messaging Knows Exactly What You Want. They're Waiting to See If You'll Say It.
 
-## You tried to be subtle. They read it as weakness.
+## You tried to be subtle, and they read it as weakness.
 
 ![Hunter Two: Seduction](./img/hunter-two-seduction.png)
 

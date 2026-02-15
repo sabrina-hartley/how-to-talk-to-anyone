@@ -2,7 +2,7 @@
 
 # They Didn't Ignore Your Strategy Deck. They Fell Asleep Before Slide Three.
 
-## Farmer Sevens reject your pacing.
+## Your long-term strategy bored someone who runs three deals at once.
 
 ![Farmer Seven: Keepers](./img/farmer-seven-keepers.png)
 
