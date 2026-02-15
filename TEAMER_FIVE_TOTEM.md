@@ -107,7 +107,7 @@ Your smartest people aren't disengaged. They're under-stimulated by messages tha
 
 #### They're not avoiding your request. They're waiting for you to make it worth thinking about.
 
-It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [rally.ai/prompts](https://www.rally.ai/prompts).
+It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 
 ---
 

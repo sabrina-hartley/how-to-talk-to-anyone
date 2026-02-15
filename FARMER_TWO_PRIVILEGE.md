@@ -107,7 +107,7 @@ The senders who learn to match their communication to how each person processes 
 
 #### The most charming person on your team is also the most sensitive to how you open a conversation. Choose your first sentence accordingly.
 
-It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [rally.ai/prompts](https://www.rally.ai/prompts).
+It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 
 ---
 

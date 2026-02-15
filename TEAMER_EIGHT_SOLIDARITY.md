@@ -107,7 +107,7 @@ The leaders who learn to communicate through each person's actual instinctual fi
 
 #### You said you cared. They needed you to say you'd move. That's the gap that cost you their trust.
 
-It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [rally.ai/prompts](https://www.rally.ai/prompts).
+It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 
 ---
 

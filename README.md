@@ -66,6 +66,6 @@ Each article in this series profiles one subtype, names the specific anti-patter
 
 **Use the free prompt.** Every article includes a structured prompt you can paste into ChatGPT, Claude, or any LLM after drafting a message. The model will rewrite your draft specifically for that subtype.
 
-**Pair with the AI Smells guide.** This series fixes *who* your message targets. The [AI Smells Remover](https://www.rally.ai/prompts) fixes *how* your AI writes. Use both.
+**Pair with the AI Smells guide.** This series fixes *who* your message targets. The [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md) fixes *how* your AI writes. Use both.
 
 **Go deeper.** This is what [Rally](https://www.rally.ai/) does automatically: communications optimized for each person's instinctual profile, at scale, without the manual prompting.

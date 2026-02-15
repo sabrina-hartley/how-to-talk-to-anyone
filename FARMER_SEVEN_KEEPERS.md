@@ -107,7 +107,7 @@ The dealmakers and operators who learn to match their pacing, framing, and energ
 
 #### You don't have a content problem. You have a clock-speed problem. And for this subtype, slow is the same as silent.
 
-It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [rally.ai/prompts](https://www.rally.ai/prompts).
+It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 
 ---
 

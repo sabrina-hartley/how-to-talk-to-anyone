@@ -107,7 +107,7 @@ Every person on your team has a filter like this. Most senders never learn what 
 
 #### Your most reliable people aren't hard to communicate with. You just haven't matched their frequency yet.
 
-It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [rally.ai/prompts](https://www.rally.ai/prompts).
+It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 
 ---
 

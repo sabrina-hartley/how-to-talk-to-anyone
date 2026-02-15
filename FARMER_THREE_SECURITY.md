@@ -107,7 +107,7 @@ The leaders who learn to match their recognition to how each person actually pro
 
 #### Your best people aren't motivated by your enthusiasm. They're motivated by your standards.
 
-It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [rally.ai/prompts](https://www.rally.ai/prompts).
+It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 
 ---
 

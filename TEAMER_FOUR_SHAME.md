@@ -107,7 +107,7 @@ Most managers have someone on their team who seems "too sensitive" or "hard to m
 
 #### They're not asking you to coddle them. They're asking you to see what they've already done.
 
-It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [rally.ai/prompts](https://www.rally.ai/prompts).
+It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 
 ---
 

@@ -107,7 +107,7 @@ The leaders who learn to match their message to each person's threat-detection s
 
 #### "Don't worry" isn't reassurance. For twenty-seven subtypes, it means twenty-seven different things — and for this one, it means you haven't done your homework.
 
-It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [rally.ai/prompts](https://www.rally.ai/prompts).
+It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 
 ---
 

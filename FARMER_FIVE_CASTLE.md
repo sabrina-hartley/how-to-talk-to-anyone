@@ -107,7 +107,7 @@ The communicators who learn to match their message to each person's instinctual 
 
 #### Your message isn't bad. It's just addressed to a person who doesn't exist — the generic coworker with no walls.
 
-It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [rally.ai/prompts](https://www.rally.ai/prompts).
+It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 
 ---
 
