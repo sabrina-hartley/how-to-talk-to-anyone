@@ -98,7 +98,7 @@ That's the bar now. Learn the smells, sharpen your prompting, and develop the ed
 
 #### Nobody is going to tell you that you smell. Consider this the courtesy.
 
-It's why we're building [Rally](https://www.rally.ai/), odor-free communications optimized for employee engagement. We published our prompt library if you want to see how we clear the smells: [AI Smells Remover prompt](./you-smell-like-bad-ai-2026-02-14.md#try-it-out-free-ai-smells-remover-reprompt).
+It's why we're building [Rally](https://www.rally.ai/), odor-free communications optimized for employee engagement. Now that you know how to fix how your AI writes, fix who it writes for: [How to Talk to Anyone — 27 Subtype Communication Guides](./README.md).
 
 
 ---
