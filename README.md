@@ -2,6 +2,8 @@
 
 ## You fixed how your AI writes. Now fix who it writes for.
 
+![How to Talk to Anyone](./img/index-hero.png)
+
 Generic communication is a coin flip. You write something clear, concise, and well-structured, send it to ten people, and get ten different reactions. Three people love it. Two ignore it. One gets offended. Four skim it and forget it existed.
 
 The problem is not your writing. The problem is that people do not process messages the same way. Personality science has mapped 27 distinct subtypes, each driven by a different instinctual filter that shapes how they receive, prioritize, and react to incoming information. These filters run automatically, beneath conscious awareness, and they cannot be overridden.
