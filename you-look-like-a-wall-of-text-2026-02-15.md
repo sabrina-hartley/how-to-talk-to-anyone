@@ -66,42 +66,39 @@ Same information. Same word count. The formatted version gets replies because re
 
 ### Try it out: FREE Email Formatting Optimizer Prompt
 
-Paste your draft email into your LLM, then paste the following prompt after it. The model will add bold and italic markers to your existing text so readers can find what matters. It will not restructure, reorder, or rewrite anything.
+Paste your draft email into your LLM, then paste the following prompt after it. The model will bold the 1-3 sentences that carry your core message so a reader scanning the page walks away with the right takeaway. Everything else stays untouched.
 
 ```
 mode: post_generation_reprompt
-task: "Use the immediately preceding draft in this thread as input. Add bold and italic formatting to improve scanability. Do not change anything else."
-goal: "Same text, same structure, same paragraph breaks, same order. The only difference is strategic bold and italic markers on key phrases."
-stance: "Minimal intervention. Bold the ask and the deadline. Italic the context. Leave everything else untouched."
-output_rules[5]:
+task: "Use the immediately preceding draft in this thread as input. Identify the 1-3 sentences that carry the core ask, conclusion, or demand. Bold those complete sentences. Return the full draft with no other changes."
+goal: "A reader who scans only the bolded text should understand exactly what the sender wants and why it matters."
+stance: "One formatting move. Bold the sentences that would survive a TL;DR. Touch nothing else."
+output_rules[4]:
   - return only the formatted draft
   - no preface no framing and no wrap-up
   - no explanations or notes about what was changed
-  - preserve all original words sentences paragraphs and line breaks exactly
-  - do not reorder split merge or restructure any content
-non_negotiables[6]:
+  - preserve all original words sentences paragraphs line breaks and structure exactly
+non_negotiables[7]:
   - never add words
   - never remove words
   - never rephrase or reword
-  - never split paragraphs or add line breaks that were not in the original
-  - never convert prose into lists
-  - never add headings that were not in the original
-bold_rules[3]:
-  - bold the primary ask or action the reader needs to take
-  - bold deadlines dates or time-sensitive phrases
-  - bold at most 2-3 short phrases per email. if everything is bold nothing is bold.
-italic_rules[2]:
-  - italic background context or supporting detail the reader can skip if they already know it
-  - italic at most 1-2 sentences per email. use sparingly.
-quality_gate[4]:
-  - the output must have identical structure and line breaks to the input
-  - no new paragraphs no new lists no new headings
-  - bold and italic markers are the only additions
-  - if a phrase does not contain a deadline ask or decision it should not be bold
+  - never split or merge paragraphs
+  - never add line breaks headings or lists that were not in the original
+  - never use italic underline or any formatting other than bold
+  - never restructure reorder or reorganize any content
+bold_rules[4]:
+  - bold complete sentences not fragments or individual words
+  - bold only the 1-3 sentences that carry the core ask conclusion or demand of the entire message
+  - a reader who reads only the bolded sentences should get the full point of the email
+  - if the email has no clear ask or demand bold nothing and return the draft unchanged
+quality_gate[3]:
+  - the output must be identical to the input except for bold markers around 1-3 complete sentences
+  - no structural changes of any kind
+  - if more than 3 sentences are bolded the formatting has failed
 few_shot_examples[3]{id,in,out}:
-  s1,"I need the Q3 report finalized by Friday. The data is in the shared drive and Sarah has the latest client numbers.","I need the Q3 report **finalized by Friday.** *The data is in the shared drive and Sarah has the latest client numbers.*"
-  s2,"We should switch vendors for three reasons: cost is 30% lower, onboarding takes two days instead of two weeks, and their API matches our current stack.","We should switch vendors for three reasons: cost is 30% lower, onboarding takes two days instead of two weeks, and their API matches our current stack."
-  s3,"Hi team, quick update on the redesign. The homepage wireframes are approved. We still need sign-off on the mobile nav from product. Design will start the component library Monday. Please review the attached mockups before then.","Hi team, quick update on the redesign. The homepage wireframes are approved. We still need **sign-off on the mobile nav from product.** Design will start the component library Monday. **Please review the attached mockups before then.**"
+  s1,"I wanted to give a quick update on the Henderson project. We've hit a delay on the vendor integration due to an API change on their end, which means the original March 15 deadline is no longer realistic. After reviewing the scope with engineering, we think March 29 is achievable if we can get sign-off on the revised SOW by this Friday. The budget impact is minimal, roughly $4,200 in additional QA hours, which fits within our contingency. I need three things from this group: confirmation that the March 29 date works for the client presentation, approval on the $4,200 overage, and someone to own the client communication about the timeline shift.","I wanted to give a quick update on the Henderson project. We've hit a delay on the vendor integration due to an API change on their end, which means the original March 15 deadline is no longer realistic. **After reviewing the scope with engineering, we think March 29 is achievable if we can get sign-off on the revised SOW by this Friday.** The budget impact is minimal, roughly $4,200 in additional QA hours, which fits within our contingency. **I need three things from this group: confirmation that the March 29 date works for the client presentation, approval on the $4,200 overage, and someone to own the client communication about the timeline shift.**"
+  s2,"The team had a productive sprint last week. We shipped the notifications overhaul and closed 14 tickets. The backlog is down to 23 items. No blockers at the moment.","The team had a productive sprint last week. We shipped the notifications overhaul and closed 14 tickets. The backlog is down to 23 items. No blockers at the moment."
+  s3,"We've been evaluating three CRM platforms over the past month. After scoring them on cost, onboarding time, and API compatibility, Acme CRM is the clear winner across all three criteria. I'd like to move forward with the Acme contract by end of week unless anyone has objections.","We've been evaluating three CRM platforms over the past month. **After scoring them on cost, onboarding time, and API compatibility, Acme CRM is the clear winner across all three criteria.** **I'd like to move forward with the Acme contract by end of week unless anyone has objections.**"
 input_source: prior_thread_message
 ```
 
