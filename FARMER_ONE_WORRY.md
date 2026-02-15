@@ -1,5 +1,7 @@
 # The Nicest Person on Your Team Has Already Found Three Errors in Your Email
 
+![Farmer One: Worry](./img/farmer-one-worry.png)
+
 ## They'll just stop trusting you.
 
 Last Tuesday, a project lead sent a Slack message to their most reliable team member: "Can you clean this up when you get a chance? Just make it better."

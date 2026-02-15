@@ -1,5 +1,7 @@
 # They Read Your First Sentence and Decided You Don't Care About Them
 
+![Farmer Two: Privilege](./img/farmer-two-privilege.png)
+
 ## And after that, nothing else in the message mattered.
 
 A team lead needed three deliverables by Friday. They wrote a clean, efficient Slack message: "Please complete the following tasks by EOD Friday: 1) Update the client deck. 2) Reconcile the Q3 numbers. 3) Send the vendor follow-up." Hit send. Moved on.
