@@ -118,4 +118,4 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 | Previous | [Farmer Four: Tenacity](./FARMER_FOUR_TENACITY.md) |
 | Next | [Hunter Four: Competition](./HUNTER_FOUR_COMPETITION.md) |
 
-[Back to series index](./INDEX.md)
+[Back to series index](./README.md)

@@ -118,4 +118,4 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 | Previous | [Farmer Nine: Appetite](./FARMER_NINE_APPETITE.md) |
 | Next | [Hunter Nine: Fusion](./HUNTER_NINE_FUSION.md) |
 
-[Back to series index](./INDEX.md)
+[Back to series index](./README.md)

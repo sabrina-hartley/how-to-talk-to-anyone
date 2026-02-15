@@ -118,4 +118,4 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 | Previous | [Teamer Seven: Sacrifice](./TEAMER_SEVEN_SACRIFICE.md) |
 | Next | [Farmer Eight: Satisfaction](./FARMER_EIGHT_SATISFACTION.md) |
 
-[Back to series index](./INDEX.md)
+[Back to series index](./README.md)

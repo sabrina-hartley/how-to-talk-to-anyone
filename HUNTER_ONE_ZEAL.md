@@ -118,4 +118,4 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 | Previous | [Teamer One: Non-Adaptability](./TEAMER_ONE_NON_ADAPTABILITY.md) |
 | Next | [Farmer Two: Privilege](./FARMER_TWO_PRIVILEGE.md) |
 
-[Back to series index](./INDEX.md)
+[Back to series index](./README.md)

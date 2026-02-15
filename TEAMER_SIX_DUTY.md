@@ -118,4 +118,4 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 | Previous | [Farmer Six: Warmth](./FARMER_SIX_WARMTH.md) |
 | Next | [Hunter Six: Strength](./HUNTER_SIX_STRENGTH.md) |
 
-[Back to series index](./INDEX.md)
+[Back to series index](./README.md)

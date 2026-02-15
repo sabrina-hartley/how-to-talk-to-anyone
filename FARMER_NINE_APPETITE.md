@@ -118,4 +118,4 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 | Previous | [Hunter Eight: Possession](./HUNTER_EIGHT_POSSESSION.md) |
 | Next | [Teamer Nine: Participation](./TEAMER_NINE_PARTICIPATION.md) |
 
-[Back to series index](./INDEX.md)
+[Back to series index](./README.md)

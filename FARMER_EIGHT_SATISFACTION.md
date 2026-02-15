@@ -120,4 +120,4 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 | Previous | [Farmer Seven: Keepers of the Castle](./FARMER_SEVEN_KEEPERS.md) |
 | Next | [Teamer Eight: Solidarity](./TEAMER_EIGHT_SOLIDARITY.md) |
 
-[Back to series index](./INDEX.md)
+[Back to series index](./README.md)

@@ -118,4 +118,4 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 | Previous | [Farmer Five: Castle](./FARMER_FIVE_CASTLE.md) |
 | Next | [Hunter Five: Confidence](./HUNTER_FIVE_CONFIDENCE.md) |
 
-[Back to series index](./INDEX.md)
+[Back to series index](./README.md)

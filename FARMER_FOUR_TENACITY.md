@@ -118,4 +118,4 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 | Previous | [Hunter Three: Charisma](./HUNTER_THREE_CHARISMA.md) |
 | Next | [Teamer Four: Shame](./TEAMER_FOUR_SHAME.md) |
 
-[Back to series index](./INDEX.md)
+[Back to series index](./README.md)

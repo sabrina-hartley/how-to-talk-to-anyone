@@ -118,4 +118,4 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 | Previous | [Farmer Two: Privilege](./FARMER_TWO_PRIVILEGE.md) |
 | Next | [Hunter Two: Seduction](./HUNTER_TWO_SEDUCTION.md) |
 
-[Back to series index](./INDEX.md)
+[Back to series index](./README.md)
