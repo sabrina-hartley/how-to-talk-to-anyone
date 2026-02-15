@@ -2,6 +2,8 @@
 
 ## They didn't need reassurance. They needed proof you're ready to fight.
 
+![Hunter Six: Strength](./img/hunter-six-strength.png)
+
 You walked into a cross-functional sync with a solid risk mitigation plan. The slides were clean and the data was there. You presented it to the team lead with a collaborative opener: "I think we can manage this if we stay calm and work through it together. Let me know your thoughts."
 
 The team lead, a Hunter Six, stared at you for a beat too long. Then asked: "What's the fallback if the primary plan fails? Who's running point if we get hit this week instead of next month? What's the trigger for escalation?" You blinked. Your plan didn't have those answers because you hadn't thought in those terms. You were presenting a strategy, and they were looking for a battle plan.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Teamer Six: Duty](./TEAMER_SIX_DUTY.md) |
-| Next | [Farmer Seven: Keepers](./FARMER_SEVEN_KEEPERS.md) |
+| Previous | [![Teamer Six: Duty](./img/thumbs/teamer-six-duty.png)](./TEAMER_SIX_DUTY.md) [Teamer Six: Duty](./TEAMER_SIX_DUTY.md) |
+| Next | [![Farmer Seven: Keepers](./img/thumbs/farmer-seven-keepers.png)](./FARMER_SEVEN_KEEPERS.md) [Farmer Seven: Keepers](./FARMER_SEVEN_KEEPERS.md) |
 
 [Back to series index](./README.md)

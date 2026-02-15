@@ -114,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Hunter Five: Confidence](./HUNTER_FIVE_CONFIDENCE.md) |
-| Next | [Teamer Six: Duty](./TEAMER_SIX_DUTY.md) |
+| Previous | [![Hunter Five: Confidence](./img/thumbs/hunter-five-confidence.png)](./HUNTER_FIVE_CONFIDENCE.md) [Hunter Five: Confidence](./HUNTER_FIVE_CONFIDENCE.md) |
+| Next | [![Teamer Six: Duty](./img/thumbs/teamer-six-duty.png)](./TEAMER_SIX_DUTY.md) [Teamer Six: Duty](./TEAMER_SIX_DUTY.md) |
 
 [Back to series index](./README.md)

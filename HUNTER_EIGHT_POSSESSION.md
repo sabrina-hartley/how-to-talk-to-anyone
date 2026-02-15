@@ -2,6 +2,8 @@
 
 ## They didn't disrespect you. You gave them a power vacuum and they filled it.
 
+![Hunter Eight: Possession](./img/hunter-eight-possession.png)
+
 You were running the quarterly planning session. Eight stakeholders, tight agenda, big decisions. Ten minutes in, one of your senior directors started redirecting the conversation. They challenged your framing, proposed an alternative structure for the discussion, and began assigning action items—to your direct reports. You tried to steer things back: "Great points—can we maybe align on a plan that works for everyone?"
 
 The director, a Hunter Eight, heard that sentence and made a judgment in about two seconds: you don't have a grip on this room. "Can we maybe align" is not a leadership signal. It's an invitation to be led. And this person doesn't wait for invitations. They saw ambiguity about who was driving, so they drove. Out of instinct, not malice. A room without a clear power center is, to them, a room in chaos.
@@ -111,7 +113,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Teamer Eight: Solidarity](./TEAMER_EIGHT_SOLIDARITY.md) |
-| Next | [Farmer Nine: Appetite](./FARMER_NINE_APPETITE.md) |
+| Previous | [![Teamer Eight: Solidarity](./img/thumbs/teamer-eight-solidarity.png)](./TEAMER_EIGHT_SOLIDARITY.md) [Teamer Eight: Solidarity](./TEAMER_EIGHT_SOLIDARITY.md) |
+| Next | [![Farmer Nine: Appetite](./img/thumbs/farmer-nine-appetite.png)](./FARMER_NINE_APPETITE.md) [Farmer Nine: Appetite](./FARMER_NINE_APPETITE.md) |
 
 [Back to series index](./README.md)

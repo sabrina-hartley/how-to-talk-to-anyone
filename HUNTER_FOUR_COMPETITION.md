@@ -2,6 +2,8 @@
 
 ## You tried to de-escalate. They heard you surrender.
 
+![Hunter Four: Competition](./img/hunter-four-competition.png)
+
 A cross-functional project had stalled. Two leads, engineering and design, were publicly clashing over scope. Sam, the program manager, drafted a message to Lex, the design lead known for turning every review into a cage match: "Let's all try to be nicer to each other and find common ground. We're on the same team here. Please calm down and let's keep things professional."
 
 Three sentences. Three detonations. "Be nicer" told Lex that Sam valued comfort over quality. "Find common ground" meant settling for mediocrity. "Please calm down" was the worst: it framed Lex's intensity as a problem to manage rather than an asset to direct. Lex didn't calm down. She escalated. She cc'd the VP, reframed the entire conflict as a quality issue, and demanded measurable performance targets for both teams by end of week.
@@ -111,7 +113,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Teamer Four: Shame](./TEAMER_FOUR_SHAME.md) |
-| Next | [Farmer Five: Castle](./FARMER_FIVE_CASTLE.md) |
+| Previous | [![Teamer Four: Shame](./img/thumbs/teamer-four-shame.png)](./TEAMER_FOUR_SHAME.md) [Teamer Four: Shame](./TEAMER_FOUR_SHAME.md) |
+| Next | [![Farmer Five: Castle](./img/thumbs/farmer-five-castle.png)](./FARMER_FIVE_CASTLE.md) [Farmer Five: Castle](./FARMER_FIVE_CASTLE.md) |
 
 [Back to series index](./README.md)

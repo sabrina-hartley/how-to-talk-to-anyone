@@ -2,6 +2,8 @@
 
 ## Some people ignore your message because it wasn't built for them.
 
+![Farmer Eight: Satisfaction](./img/farmer-eight-satisfaction.png)
+
 You wrote a solid pitch: clear value prop, friendly tone, reasonable ask. You sent it to a Farmer Eight and they deleted it before the second sentence.
 
 The packaging triggered every filter they have. You opened with rapport-building when they wanted the bottom line. You hedged with "could potentially help," which they read as weakness. You framed your offer as support, and they heard "I think you need rescuing."
@@ -114,7 +116,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Farmer Seven: Keepers of the Castle](./FARMER_SEVEN_KEEPERS.md) |
-| Next | [Teamer Eight: Solidarity](./TEAMER_EIGHT_SOLIDARITY.md) |
+| Previous | [![Farmer Seven: Keepers of the Castle](./img/thumbs/farmer-seven-keepers.png)](./FARMER_SEVEN_KEEPERS.md) [Farmer Seven: Keepers of the Castle](./FARMER_SEVEN_KEEPERS.md) |
+| Next | [![Teamer Eight: Solidarity](./img/thumbs/teamer-eight-solidarity.png)](./TEAMER_EIGHT_SOLIDARITY.md) [Teamer Eight: Solidarity](./TEAMER_EIGHT_SOLIDARITY.md) |
 
 [Back to series index](./README.md)

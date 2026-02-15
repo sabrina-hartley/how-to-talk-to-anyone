@@ -114,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Hunter Three: Charisma](./HUNTER_THREE_CHARISMA.md) |
-| Next | [Teamer Four: Shame](./TEAMER_FOUR_SHAME.md) |
+| Previous | [![Hunter Three: Charisma](./img/thumbs/hunter-three-charisma.png)](./HUNTER_THREE_CHARISMA.md) [Hunter Three: Charisma](./HUNTER_THREE_CHARISMA.md) |
+| Next | [![Teamer Four: Shame](./img/thumbs/teamer-four-shame.png)](./TEAMER_FOUR_SHAME.md) [Teamer Four: Shame](./TEAMER_FOUR_SHAME.md) |
 
 [Back to series index](./README.md)

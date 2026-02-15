@@ -2,6 +2,8 @@
 
 ## You thought you had alignment. You had compliance from someone who'd lost their own voice.
 
+![Hunter Nine: Fusion](./img/hunter-nine-fusion.png)
+
 You wrapped up a one-on-one with your design lead to finalize the direction for a major product redesign. You'd laid out three options, explained your preference, and asked for her take. She nodded. "That sounds great. I think your instinct is right. Let's go with that." You left the meeting feeling aligned. Efficient, even.
 
 Two weeks into execution, the work was flat. The designs technically matched the brief, but they had none of the spark she usually brought. When you checked in, she was agreeable as always: "Yeah, I think it's going well. If you're happy, I'm happy." It hit you. She hadn't actually contributed a single original perspective since that meeting. She'd adopted your vision wholesale because agreeing was easier than asserting.
@@ -111,6 +113,6 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Teamer Nine: Participation](./TEAMER_NINE_PARTICIPATION.md) |
+| Previous | [![Teamer Nine: Participation](./img/thumbs/teamer-nine-participation.png)](./TEAMER_NINE_PARTICIPATION.md) [Teamer Nine: Participation](./TEAMER_NINE_PARTICIPATION.md) |
 
 [Back to series index](./README.md)

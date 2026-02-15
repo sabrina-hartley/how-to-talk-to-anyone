@@ -2,6 +2,8 @@
 
 ## The confidence you tried to give them landed as proof they don't belong.
 
+![Teamer Four: Shame](./img/teamer-four-shame.png)
+
 Aisha's 1:1 with Sam was supposed to be motivational. Sam had been quiet in meetings, slow to volunteer, visibly shrinking when other team members presented their work. Aisha thought she knew the fix. She wrote in their shared doc: "You're overreacting and need to move on. Others are handling this better. You just need more confidence!"
 
 She meant it warmly: push through it, buck up, look at what everyone else is doing and match that energy. But Sam read it as three separate confirmations of what they already believed: their feelings were wrong, everyone else was better, and the gap was a personal deficiency. Sam didn't respond to the doc. They called in sick the next day.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Farmer Four: Tenacity](./FARMER_FOUR_TENACITY.md) |
-| Next | [Hunter Four: Competition](./HUNTER_FOUR_COMPETITION.md) |
+| Previous | [![Farmer Four: Tenacity](./img/thumbs/farmer-four-tenacity.png)](./FARMER_FOUR_TENACITY.md) [Farmer Four: Tenacity](./FARMER_FOUR_TENACITY.md) |
+| Next | [![Hunter Four: Competition](./img/thumbs/hunter-four-competition.png)](./HUNTER_FOUR_COMPETITION.md) [Hunter Four: Competition](./HUNTER_FOUR_COMPETITION.md) |
 
 [Back to series index](./README.md)

@@ -2,6 +2,8 @@
 
 ## You tried to be subtle. They read it as weakness.
 
+![Hunter Two: Seduction](./img/hunter-two-seduction.png)
+
 Dev needed a commitment from Mara, the client success director who'd single-handedly rescued three at-risk accounts in Q2 by building intense personal relationships with each stakeholder. He sent her a project staffing request: "I hope you can support the onboarding initiative sometime. The team would really benefit from your involvement. Let us see where this goes."
 
 Mara stared at the message. Three sentences, all evasion. "Hope you can support"—what does support mean? "Sometime"—when? "Let us see where this goes"—goes where? Dev thought he was being respectful. Mara saw a person hiding behind vagueness because they were afraid to ask for what they actually needed. She'd built her career on direct, personal engagement: walking into rooms and saying exactly what she wanted from exactly who she wanted it from. Dev's message tested her patience.
@@ -111,7 +113,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Teamer Two: Ambition](./TEAMER_TWO_AMBITION.md) |
-| Next | [Farmer Three: Security](./FARMER_THREE_SECURITY.md) |
+| Previous | [![Teamer Two: Ambition](./img/thumbs/teamer-two-ambition.png)](./TEAMER_TWO_AMBITION.md) [Teamer Two: Ambition](./TEAMER_TWO_AMBITION.md) |
+| Next | [![Farmer Three: Security](./img/thumbs/farmer-three-security.png)](./FARMER_THREE_SECURITY.md) [Farmer Three: Security](./FARMER_THREE_SECURITY.md) |
 
 [Back to series index](./README.md)

@@ -2,6 +2,8 @@
 
 ## They didn't miss your point. They judged you for not having the guts to make it sharper.
 
+![Hunter One: Zeal](./img/hunter-one-zeal.png)
+
 Priya needed buy-in from Jordan, the operations lead known for driving quality overhauls across three departments in eighteen months. She crafted a careful message about a vendor issue: "There may be some opportunities to revisit our vendor evaluation process. I think we could explore a few improvements when the timing feels right. Thoughts?"
 
 Jordan read it twice, looking for substance that wasn't there. "May be some opportunities." "Explore a few improvements." "When the timing feels right." Every phrase hedged, every sentence avoided stating what was actually wrong, who was responsible, and what needed to happen. Jordan saw someone who either didn't understand the problem or lacked the conviction to name it.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Teamer One: Non-Adaptability](./TEAMER_ONE_NON_ADAPTABILITY.md) |
-| Next | [Farmer Two: Privilege](./FARMER_TWO_PRIVILEGE.md) |
+| Previous | [![Teamer One: Non-Adaptability](./img/thumbs/teamer-one-non-adaptability.png)](./TEAMER_ONE_NON_ADAPTABILITY.md) [Teamer One: Non-Adaptability](./TEAMER_ONE_NON_ADAPTABILITY.md) |
+| Next | [![Farmer Two: Privilege](./img/thumbs/farmer-two-privilege.png)](./FARMER_TWO_PRIVILEGE.md) [Farmer Two: Privilege](./FARMER_TWO_PRIVILEGE.md) |
 
 [Back to series index](./README.md)

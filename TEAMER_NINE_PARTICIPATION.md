@@ -2,6 +2,8 @@
 
 ## They keep showing up. They keep saying yes. And you have no idea what they actually think.
 
+![Teamer Nine: Participation](./img/teamer-nine-participation.png)
+
 You sent a group message asking for input on a new project direction. You got strong opinions from three people, silence from two, and a quick "Sounds good to me!" from one. That last person—a Teamer Nine—just disappeared into the consensus without ever being seen.
 
 You took their agreement at face value. Why wouldn't you? They seemed supportive. But "sounds good to me" wasn't agreement. It was the path of least resistance. They had reservations about the timeline. They thought one of the workstreams was underscoped. They didn't say any of this because your message didn't create a space where their individual perspective was explicitly requested. You asked the group. The group answered. The Teamer Nine merged with the group answer and their own voice vanished.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Farmer Nine: Appetite](./FARMER_NINE_APPETITE.md) |
-| Next | [Hunter Nine: Fusion](./HUNTER_NINE_FUSION.md) |
+| Previous | [![Farmer Nine: Appetite](./img/thumbs/farmer-nine-appetite.png)](./FARMER_NINE_APPETITE.md) [Farmer Nine: Appetite](./FARMER_NINE_APPETITE.md) |
+| Next | [![Hunter Nine: Fusion](./img/thumbs/hunter-nine-fusion.png)](./HUNTER_NINE_FUSION.md) [Hunter Nine: Fusion](./HUNTER_NINE_FUSION.md) |
 
 [Back to series index](./README.md)

@@ -2,6 +2,8 @@
 
 ## You didn't lose their attention. You never anchored it.
 
+![Hunter Seven: Suggestibility](./img/hunter-seven-suggestibility.png)
+
 Your product manager lit up when you pitched the new feature direction. "This could be amazing," she said, already riffing on extensions: a mobile version, an AI layer, a partnership angle, a whole new market segment. You left the meeting with momentum, buy-in, and energy.
 
 Three weeks later, nothing had shipped: the mobile version was half-specced, the AI layer had become a separate initiative with its own sub-ideas, and the partnership angle had spawned two exploratory calls that went nowhere. When you checked in, she was genuinely enthusiastic: "I've been thinking about this a lot. I have so many ideas for where this could go." She had, and that was exactly the problem.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Teamer Seven: Sacrifice](./TEAMER_SEVEN_SACRIFICE.md) |
-| Next | [Farmer Eight: Satisfaction](./FARMER_EIGHT_SATISFACTION.md) |
+| Previous | [![Teamer Seven: Sacrifice](./img/thumbs/teamer-seven-sacrifice.png)](./TEAMER_SEVEN_SACRIFICE.md) [Teamer Seven: Sacrifice](./TEAMER_SEVEN_SACRIFICE.md) |
+| Next | [![Farmer Eight: Satisfaction](./img/thumbs/farmer-eight-satisfaction.png)](./FARMER_EIGHT_SATISFACTION.md) [Farmer Eight: Satisfaction](./FARMER_EIGHT_SATISFACTION.md) |
 
 [Back to series index](./README.md)

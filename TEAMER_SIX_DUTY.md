@@ -2,6 +2,8 @@
 
 ## They didn't reject your idea. They rejected the fact that you didn't cite the policy behind it.
 
+![Teamer Six: Duty](./img/teamer-six-duty.png)
+
 You sent a perfectly reasonable Slack message to the project lead asking the team to shift to a new vendor for a critical integration. You explained the business case. You laid out the benefits. You even added a friendly "let me know what you think!"
 
 The project lead—a Teamer Six—read it twice and then did nothing. Not because they disagreed. Because your message had no procedural foundation. Your message had no reference to the procurement policy, no mention of who authorized the change, and no escalation path if something broke. You presented an opportunity; they saw an unmanaged risk.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Farmer Six: Warmth](./FARMER_SIX_WARMTH.md) |
-| Next | [Hunter Six: Strength](./HUNTER_SIX_STRENGTH.md) |
+| Previous | [![Farmer Six: Warmth](./img/thumbs/farmer-six-warmth.png)](./FARMER_SIX_WARMTH.md) [Farmer Six: Warmth](./FARMER_SIX_WARMTH.md) |
+| Next | [![Hunter Six: Strength](./img/thumbs/hunter-six-strength.png)](./HUNTER_SIX_STRENGTH.md) [Hunter Six: Strength](./HUNTER_SIX_STRENGTH.md) |
 
 [Back to series index](./README.md)

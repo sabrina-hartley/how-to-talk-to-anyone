@@ -2,6 +2,8 @@
 
 ## They weren't being cold. They were testing whether you'd respect a boundary you didn't know existed.
 
+![Hunter Five: Confidence](./img/hunter-five-confidence.png)
+
 Elena needed a technical review from Amir, the architect who'd quietly designed the most elegant system in the company's stack, and who almost nobody knew personally. She sent a Slack message: "Hey! Let's connect more and see what happens. I need you to trust me on this—can you just jump in quickly? It'll be fun!"
 
 Every word was wrong. "Let's connect more": more than what? They'd had two brief interactions. The forced intimacy felt presumptuous to someone who calibrates closeness in millimeters, not miles. "See what happens" meant undefined scope, undefined commitment, undefined exit. "Trust me": trust is earned through consistent behavior, not declared by fiat. "Jump in quickly" was a demand for instant engagement from someone whose entire operating system is built on deliberate pacing. "It'll be fun" was performative enthusiasm that signaled Elena didn't understand, or didn't care, who she was talking to.
@@ -111,7 +113,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Teamer Five: Totem](./TEAMER_FIVE_TOTEM.md) |
-| Next | [Farmer Six: Warmth](./FARMER_SIX_WARMTH.md) |
+| Previous | [![Teamer Five: Totem](./img/thumbs/teamer-five-totem.png)](./TEAMER_FIVE_TOTEM.md) [Teamer Five: Totem](./TEAMER_FIVE_TOTEM.md) |
+| Next | [![Farmer Six: Warmth](./img/thumbs/farmer-six-warmth.png)](./FARMER_SIX_WARMTH.md) [Farmer Six: Warmth](./FARMER_SIX_WARMTH.md) |
 
 [Back to series index](./README.md)

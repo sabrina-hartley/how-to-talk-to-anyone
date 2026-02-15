@@ -2,6 +2,8 @@
 
 ## You asked for help. They heard a demotion.
 
+![Teamer Two: Ambition](./img/teamer-two-ambition.png)
+
 Priya needed someone to take over the onboarding redesign. The obvious choice was Jordan—energetic, well-connected, liked by everyone. She wrote him a warm Slack message: "Could you help the team with this initiative? Your support would be really appreciated. We all need to pitch in on this one."
 
 Jordan read it twice. "Help the team." "Pitch in." "Support." Every phrase positioned him as a background player, one of many contributors to someone else's project, with no ownership, no visibility, and no mention of who would see the results or what this would mean for his standing. He replied: "Happy to help where I can," and then did the minimum.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Farmer Two: Privilege](./FARMER_TWO_PRIVILEGE.md) |
-| Next | [Hunter Two: Seduction](./HUNTER_TWO_SEDUCTION.md) |
+| Previous | [![Farmer Two: Privilege](./img/thumbs/farmer-two-privilege.png)](./FARMER_TWO_PRIVILEGE.md) [Farmer Two: Privilege](./FARMER_TWO_PRIVILEGE.md) |
+| Next | [![Hunter Two: Seduction](./img/thumbs/hunter-two-seduction.png)](./HUNTER_TWO_SEDUCTION.md) [Hunter Two: Seduction](./HUNTER_TWO_SEDUCTION.md) |
 
 [Back to series index](./README.md)

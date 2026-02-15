@@ -2,6 +2,8 @@
 
 ## This person doesn't want to know you care. They want to know you'll fight.
 
+![Teamer Eight: Solidarity](./img/teamer-eight-solidarity.png)
+
 You noticed tension on the team after a round of layoffs. People were anxious, morale was low, and you wanted to address it. So you sent a thoughtful message to your most trusted team lead: "I know this has been hard on everyone. I really care about the team and I hope things start to improve. Let's keep collaborating and supporting each other through this."
 
 The team lead, a Teamer Eight, read your message and felt something between disappointment and contempt. Your message was the heartless one: you named the problem and offered feelings when they needed you to name who was exposed and offer a plan. "I care about the team" told them nothing. "I have the team covered, here's who owns what and when" would have told them everything.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Farmer Eight: Satisfaction](./FARMER_EIGHT_SATISFACTION.md) |
-| Next | [Hunter Eight: Possession](./HUNTER_EIGHT_POSSESSION.md) |
+| Previous | [![Farmer Eight: Satisfaction](./img/thumbs/farmer-eight-satisfaction.png)](./FARMER_EIGHT_SATISFACTION.md) [Farmer Eight: Satisfaction](./FARMER_EIGHT_SATISFACTION.md) |
+| Next | [![Hunter Eight: Possession](./img/thumbs/hunter-eight-possession.png)](./HUNTER_EIGHT_POSSESSION.md) [Hunter Eight: Possession](./HUNTER_EIGHT_POSSESSION.md) |
 
 [Back to series index](./README.md)

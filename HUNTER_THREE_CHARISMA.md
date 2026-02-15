@@ -2,6 +2,8 @@
 
 ## Your data was flawless. Your message forgot the people it was supposed to elevate.
 
+![Hunter Three: Charisma](./img/hunter-three-charisma.png)
+
 Tessa, a marketing analyst, delivered a campaign performance report to Nate, the partnerships director who'd built the company's entire co-marketing program from scratch. Her email was clean: conversion rates, spend efficiency, ROI by channel. Three charts, a summary table, a recommendation to scale. Subject line: "Q3 Campaign Results — Numbers Attached."
 
 Nate opened it, skimmed the numbers, and felt nothing. The results were excellent, but the entire report was about metrics, and not a single line mentioned the people behind them. The partner team that co-created the landing pages. The sales reps who adjusted their pitch based on Nate's enablement sessions. The client advocates who gave testimonials. Nate had personally championed every one of those relationships, and Tessa's report treated the campaign like it ran itself.
@@ -111,7 +113,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Teamer Three: Prestige](./TEAMER_THREE_PRESTIGE.md) |
-| Next | [Farmer Four: Tenacity](./FARMER_FOUR_TENACITY.md) |
+| Previous | [![Teamer Three: Prestige](./img/thumbs/teamer-three-prestige.png)](./TEAMER_THREE_PRESTIGE.md) [Teamer Three: Prestige](./TEAMER_THREE_PRESTIGE.md) |
+| Next | [![Farmer Four: Tenacity](./img/thumbs/farmer-four-tenacity.png)](./FARMER_FOUR_TENACITY.md) [Farmer Four: Tenacity](./FARMER_FOUR_TENACITY.md) |
 
 [Back to series index](./README.md)

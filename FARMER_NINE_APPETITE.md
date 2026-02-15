@@ -2,6 +2,8 @@
 
 ## Your request just doesn't fit anywhere in their day.
 
+![Farmer Nine: Appetite](./img/farmer-nine-appetite.png)
+
 You sent your most reliable team member a message on Tuesday afternoon: "We need a full plan for next quarter. Think deeply about your long-term priorities and get back to me with a comprehensive roadmap. The sooner the better."
 
 They replied "Sounds good!" within minutes. Wednesday passed. Thursday passed. Friday you followed up. "Hey — any progress on that roadmap?" They said they'd been busy but would get to it over the weekend. Monday came. Nothing.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Hunter Eight: Possession](./HUNTER_EIGHT_POSSESSION.md) |
-| Next | [Teamer Nine: Participation](./TEAMER_NINE_PARTICIPATION.md) |
+| Previous | [![Hunter Eight: Possession](./img/thumbs/hunter-eight-possession.png)](./HUNTER_EIGHT_POSSESSION.md) [Hunter Eight: Possession](./HUNTER_EIGHT_POSSESSION.md) |
+| Next | [![Teamer Nine: Participation](./img/thumbs/teamer-nine-participation.png)](./TEAMER_NINE_PARTICIPATION.md) [Teamer Nine: Participation](./TEAMER_NINE_PARTICIPATION.md) |
 
 [Back to series index](./README.md)

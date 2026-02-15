@@ -2,6 +2,8 @@
 
 ## Farmer Sevens reject your pacing.
 
+![Farmer Seven: Keepers](./img/farmer-seven-keepers.png)
+
 You spent two weeks building a comprehensive strategy document. Market analysis, competitive landscape, five-year projections, phased implementation roadmap. You sent it to your VP of Business Development, a sharp, charismatic operator who always seems to have three deals running simultaneously, with a note: "Here's a long-term strategic concept I've been developing. Would love your thoughts when you get a chance."
 
 They opened it. Read the executive summary. Skimmed page two. Closed the tab. Three days later in a hallway conversation, they mentioned an alliance with a distributor they'd been working on, the exact kind of partnership your document addressed. They'd already moved on it, without your plan, using their own network.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Hunter Six: Strength](./HUNTER_SIX_STRENGTH.md) |
-| Next | [Teamer Seven: Sacrifice](./TEAMER_SEVEN_SACRIFICE.md) |
+| Previous | [![Hunter Six: Strength](./img/thumbs/hunter-six-strength.png)](./HUNTER_SIX_STRENGTH.md) [Hunter Six: Strength](./HUNTER_SIX_STRENGTH.md) |
+| Next | [![Teamer Seven: Sacrifice](./img/thumbs/teamer-seven-sacrifice.png)](./TEAMER_SEVEN_SACRIFICE.md) [Teamer Seven: Sacrifice](./TEAMER_SEVEN_SACRIFICE.md) |
 
 [Back to series index](./README.md)

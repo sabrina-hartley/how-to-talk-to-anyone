@@ -2,6 +2,8 @@
 
 ## Your ask had no thesis. So they gave it no time.
 
+![Teamer Five: Totem](./img/teamer-five-totem.png)
+
 The product team needed a technical review of a new integration architecture. Rachel sent the request to Kai, the team's systems thinker and unofficial knowledge architect: "This seems like a good idea. Can you help with this project? We need to move fast."
 
 Three sentences, each one a different failure mode. "Seems like a good idea" offered no thesis, no framework, no reasoning. "Can you help" gave no intellectual scope, only labor with no defined contribution. "Move fast" signaled anti-intellectualism, a demand to compress without substance.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Farmer Five: Castle](./FARMER_FIVE_CASTLE.md) |
-| Next | [Hunter Five: Confidence](./HUNTER_FIVE_CONFIDENCE.md) |
+| Previous | [![Farmer Five: Castle](./img/thumbs/farmer-five-castle.png)](./FARMER_FIVE_CASTLE.md) [Farmer Five: Castle](./FARMER_FIVE_CASTLE.md) |
+| Next | [![Hunter Five: Confidence](./img/thumbs/hunter-five-confidence.png)](./HUNTER_FIVE_CONFIDENCE.md) [Hunter Five: Confidence](./HUNTER_FIVE_CONFIDENCE.md) |
 
 [Back to series index](./README.md)

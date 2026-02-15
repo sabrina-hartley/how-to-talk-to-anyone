@@ -114,6 +114,6 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Next | [Teamer One: Non-Adaptability](./TEAMER_ONE_NON_ADAPTABILITY.md) |
+| Next | [![Teamer One: Non-Adaptability](./img/thumbs/teamer-one-non-adaptability.png)](./TEAMER_ONE_NON_ADAPTABILITY.md) [Teamer One: Non-Adaptability](./TEAMER_ONE_NON_ADAPTABILITY.md) |
 
 [Back to series index](./README.md)

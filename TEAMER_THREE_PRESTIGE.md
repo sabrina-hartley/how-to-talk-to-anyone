@@ -2,6 +2,8 @@
 
 ## They didn't lack motivation. They lacked a scoreboard.
 
+![Teamer Three: Prestige](./img/teamer-three-prestige.png)
+
 The quarterly kickoff email went out at 8 AM. Elena, VP of Sales, had spent an hour on it. Positive tone, inclusive language, team-focused: "Let's do our best this quarter. I appreciate everyone's hard work. We'll keep improving together."
 
 By 8:04, Dev had already archived it. Not because he didn't care—he cared more than almost anyone on the team. But the message gave him nothing to compete against, nothing to measure, nothing to win. To someone who needed a number to chase, "do our best" meant nothing, "keep improving" without a target was just noise, and "hard work" without visible recognition was wasted energy.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Farmer Three: Security](./FARMER_THREE_SECURITY.md) |
-| Next | [Hunter Three: Charisma](./HUNTER_THREE_CHARISMA.md) |
+| Previous | [![Farmer Three: Security](./img/thumbs/farmer-three-security.png)](./FARMER_THREE_SECURITY.md) [Farmer Three: Security](./FARMER_THREE_SECURITY.md) |
+| Next | [![Hunter Three: Charisma](./img/thumbs/hunter-three-charisma.png)](./HUNTER_THREE_CHARISMA.md) [Hunter Three: Charisma](./HUNTER_THREE_CHARISMA.md) |
 
 [Back to series index](./README.md)

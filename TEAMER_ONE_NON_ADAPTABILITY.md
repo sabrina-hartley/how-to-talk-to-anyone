@@ -2,6 +2,8 @@
 
 ## They didn't disagree with your point. They dismissed your reasoning.
 
+![Teamer One: Non-Adaptability](./img/teamer-one-non-adaptability.png)
+
 Marcus spent forty minutes drafting a proposal to consolidate two overlapping QA processes. Solid logic, clean formatting, a clear recommendation. He sent it to Diane, his team's standards lead, with the subject line: "Fresh idea for streamlining QA — let's try something new!"
 
 Diane read the subject line and felt her jaw tighten. "Fresh idea." "Let's try something new." She opened the email. The proposal referenced "gut feeling" about what the team needed. It proposed ditching the existing checklist with no analysis of what the checklist currently caught. The closing line was: "Trust me, this will work."
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Farmer One: Worry](./FARMER_ONE_WORRY.md) |
-| Next | [Hunter One: Zeal](./HUNTER_ONE_ZEAL.md) |
+| Previous | [![Farmer One: Worry](./img/thumbs/farmer-one-worry.png)](./FARMER_ONE_WORRY.md) [Farmer One: Worry](./FARMER_ONE_WORRY.md) |
+| Next | [![Hunter One: Zeal](./img/thumbs/hunter-one-zeal.png)](./HUNTER_ONE_ZEAL.md) [Hunter One: Zeal](./HUNTER_ONE_ZEAL.md) |
 
 [Back to series index](./README.md)

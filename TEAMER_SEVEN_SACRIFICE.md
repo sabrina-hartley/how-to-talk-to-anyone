@@ -2,6 +2,8 @@
 
 ## The person most likely to burn out for your mission is the one you keep rewarding for it.
 
+![Teamer Seven: Sacrifice](./img/teamer-seven-sacrifice.png)
+
 You needed someone to take on a thankless cross-functional project. Tight timeline, unclear scope, high visibility but low glory. You sent the ask to your team and one person responded within minutes: "I'm in. Happy to help however needed."
 
 That was a Teamer Seven. And you just activated the exact pattern that will eventually destroy their capacity to contribute. They didn't say yes because the project was a good fit. They said yes because saying yes to service is how they prove they're a good person. Their identity is built on sacrifice, and your message just gave them another opportunity to prove it.
@@ -112,7 +114,7 @@ It's why we're building [Rally](https://www.rally.ai/), communications automatic
 
 | | |
 |---|---|
-| Previous | [Farmer Seven: Keepers](./FARMER_SEVEN_KEEPERS.md) |
-| Next | [Hunter Seven: Suggestibility](./HUNTER_SEVEN_SUGGESTIBILITY.md) |
+| Previous | [![Farmer Seven: Keepers](./img/thumbs/farmer-seven-keepers.png)](./FARMER_SEVEN_KEEPERS.md) [Farmer Seven: Keepers](./FARMER_SEVEN_KEEPERS.md) |
+| Next | [![Hunter Seven: Suggestibility](./img/thumbs/hunter-seven-suggestibility.png)](./HUNTER_SEVEN_SUGGESTIBILITY.md) [Hunter Seven: Suggestibility](./HUNTER_SEVEN_SUGGESTIBILITY.md) |
 
 [Back to series index](./README.md)
