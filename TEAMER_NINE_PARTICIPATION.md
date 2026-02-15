@@ -6,35 +6,33 @@ You sent a group message asking for input on a new project direction. You got st
 
 You took their agreement at face value. Why wouldn't you? They seemed supportive. But "sounds good to me" wasn't agreement. It was the path of least resistance. They had reservations about the timeline. They thought one of the workstreams was underscoped. They didn't say any of this because your message didn't create a space where their individual perspective was explicitly requested. You asked the group. The group answered. The Teamer Nine merged with the group answer and their own voice vanished.
 
-A month later, the project hit exactly the problems they saw coming. They weren't withholding insight out of spite. They were doing what their filter does automatically: prioritize belonging over individual assertion. Your message didn't fail because it was unclear. It failed because it never asked them, specifically, to exist separately from the group.
+A month later, the project hit exactly the problems they saw coming. They were doing what their filter does automatically: prioritizing belonging over individual assertion. Your message failed because it never asked them, specifically, to exist separately from the group.
 
 ### The problem with generic communication
 
 Most advice about workplace communication treats people as interchangeable. Write clearly. Be concise. Lead with empathy. These are fine defaults, and they fail constantly with specific people for specific reasons.
 
-Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
+Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. These are hardwired filters, running beneath conscious awareness, that determine whether your message lands or gets discarded before it's finished.
 
 The Teamer Nine runs everything through one instinctual filter: **belong through group participation while tending to lose personal priorities.** They're wired to merge with the collective. If your message addresses the group without carving out a specific role for them, they'll participate—but only as an echo of whatever the group decides. Their own perspective, needs, and limits never make it to the surface.
 
 ### Meet the Teamer Nine: "Participation"
 
-Here's what the research says about this subtype:
 
 > Teamer Nines fuse with groups. They act out laziness when connecting with their own inner life by working hard to be a part of the different groups in their lives. Fun-loving, sociable, and congenial characters, Teamer Nines can be workaholics, prioritizing the group's needs above their own. This high level of activity makes them the countertype of the three Nine subtypes.
 
-Three traits drive how they process communication:
 
 **Group fusion.** They don't just participate in groups—they dissolve into them. Their sense of identity becomes the group's identity. This makes them extraordinarily easy to work with on the surface and extraordinarily hard to actually reach as individuals. When you address the team, they hear "the team." When you address them by name with a specific role, they hear themselves.
 
-**Active self-erasure.** Unlike the stereotypical lazy Nine, the Teamer Nine is a workaholic—but the work is directed at belonging, not personal goals. They'll take on enormous amounts of labor to stay connected and valuable to the group. The danger isn't that they'll disengage. It's that they'll engage with everything except their own priorities, and you'll never know because they look busy and happy.
+**Active self-erasure.** Unlike the stereotypical lazy Nine, the Teamer Nine is a workaholic, but the work is directed at belonging, not personal goals. They'll take on enormous amounts of labor to stay connected and valuable to the group. The danger is that they'll engage with everything except their own priorities, and you'll never know because they look busy and happy.
 
-**Conflict avoidance through agreement.** Disagreement threatens belonging. So they agree. Not maliciously. Automatically. Your message won't get pushback even when pushback is exactly what you need. If you want their real opinion, you have to create a structured, safe, explicit invitation for it—because their filter will suppress it by default.
+**Conflict avoidance through agreement.** Disagreement threatens belonging, so they agree automatically. Your message won't get pushback even when pushback is exactly what you need. If you want their real opinion, you have to create a structured, safe, explicit invitation, because their filter will suppress it by default.
 
 ### 5 ways you're losing them before you start
 
 1. **Exclusion cues.** "The core team will handle this—everyone else can sit tight." You just told a Teamer Nine they don't belong, which is the one thing that triggers withdrawal. Signal belonging and shared value, even when narrowing scope.
 
-2. **Endless meetings.** "Let's keep the conversation going and see where we land." Unstructured group time consumes their energy without giving them direction. Define the agenda, the outcomes, and the end time. Give them something concrete to participate in, not an open sea to drift through.
+2. **Endless meetings.** "Let's keep the conversation going and see where we land." Unstructured group time consumes their energy without giving them direction. Define the agenda, the outcomes, and the end time. Give them something concrete to participate in.
 
 3. **Assumed unlimited availability.** "Can everyone pitch in wherever needed this week?" This is an open invitation for them to erase their own schedule. They'll say yes to everything and prioritize nothing. Set clear scope and explicit workload limits so they don't have to set their own.
 
@@ -50,7 +48,7 @@ Three traits drive how they process communication:
 | "We need more participation." | "Your input is needed on decision X before we finalize." |
 | "Join if you can." | "Please confirm yes or no for this role by 5 PM today." |
 
-The pattern: replace open-ended group asks with specific individual assignments. Replace vague invitations with bounded, named commitments. Make their participation explicit, their role visible, and their individual voice structurally required—because their filter will default to group fusion every single time.
+Replace open-ended group asks with specific individual assignments and vague invitations with bounded, named commitments. Make their participation explicit, their role visible, and their individual voice structurally required, because their filter defaults to group fusion every single time.
 
 ---
 
@@ -97,11 +95,10 @@ input_source: prior_thread_message
 
 ---
 
-### This is one subtype out of twenty-seven.
-
+### Twenty-seven subtypes. One message.
 The Teamer Nine disappears into the group and needs you to pull their individual voice out. The Hunter Four ("Competition") has the opposite problem—they need intensity and distinction, not belonging. The Teamer Six ("Duty") needs procedural authority and rule-based certainty before they'll commit to anything. Same team meeting, three people hearing completely different messages and none of them hearing what you intended.
 
-> ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
+> ***Personalization determines whether your message gets read or discarded.***
 
 The communicators who learn to reach each person through their specific instinctual filter will get real opinions instead of reflexive agreement, real commitment instead of overextended compliance, and real trust instead of pleasant silence. Everyone else will keep mistaking "sounds good" for buy-in.
 

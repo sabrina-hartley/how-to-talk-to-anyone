@@ -6,41 +6,39 @@ Marcus spent forty minutes drafting a proposal to consolidate two overlapping QA
 
 Diane read the subject line and felt her jaw tighten. "Fresh idea." "Let's try something new." She opened the email. The proposal referenced "gut feeling" about what the team needed. It proposed ditching the existing checklist with no analysis of what the checklist currently caught. The closing line was: "Trust me, this will work."
 
-Diane didn't respond for three days. When she did, it was a four-paragraph rebuttal that never addressed the proposal itself—only the methodology. Marcus had delivered a reasonable idea wrapped in everything that signals intellectual carelessness to a Teamer One. She wasn't being difficult. She was being exactly who she is.
+Diane didn't respond for three days. When she did, it was a four-paragraph rebuttal that never addressed the proposal itself, only the methodology. Marcus had delivered a reasonable idea wrapped in everything that signals intellectual carelessness to a Teamer One. She was being exactly who she is.
 
 ### The problem with generic communication
 
 Most advice about workplace communication treats people as interchangeable. Write clearly. Be concise. Lead with empathy. These are fine defaults, and they fail constantly with specific people for specific reasons.
 
-Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
+Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. These are hardwired filters, running beneath conscious awareness, that determine whether your message lands or gets discarded before it's finished.
 
-The Teamer One filters every message through a single question: **does this meet the standard?** Their instinctual drive is to model the right way through principled correctness, control, and intellectual authority. If your message lacks traceable reasoning, cites no governing principle, or frames change as novelty rather than refinement—they don't just disagree. They classify you as unserious.
+The Teamer One filters every message through a single question: **does this meet the standard?** Their instinctual drive is to model the right way through principled correctness, control, and intellectual authority. If your message lacks traceable reasoning, cites no governing principle, or frames change as novelty rather than refinement, they classify you as unserious.
 
 ### Meet the Teamer One: "Non-Adaptability"
 
-Here's what the research says about this subtype:
 
 > The Teamer One is less of a perfectionist and focuses more on being the perfect example for others of the right way to be. This One is not an internally anxious person striving to be perfectionistic, but rather a paragon of correct conduct. Teamer Ones have a need to represent the perfect model of the way to be or do things through their actions—to teach others by example. Non-adaptability or rigidity refers to the tendency of this character to rigidly adhere to particular ways of being and doing things, as a way of expressing exclusive ownership of the "right" way to be, think, and behave.
 
-Three traits drive how they process communication:
 
-**Cold intellectual control.** Where other Ones run warm with buried frustration, the Teamer One converts anger into something cooler—a calm, methodical certainty that they are correct. They don't explode. They dismantle. Every message they receive gets stress-tested against their internal framework of how things should be done. Anything that doesn't survive that test gets discarded, along with some respect for the sender.
+**Cold intellectual control.** Where other Ones run warm with buried frustration, the Teamer One converts anger into calm, methodical certainty that they are correct, dismantling your reasoning piece by piece. Every message they receive gets stress-tested against their internal framework of how things should be done. Anything that doesn't survive that test gets discarded, along with some respect for the sender.
 
-**Ownership of the right way.** This isn't garden-variety stubbornness. It's an identity-level commitment to being the standard-bearer. They model correct conduct and expect others to recognize it. When you skip their process or dismiss their method, you're not just being inefficient—you're challenging their fundamental role in the group.
+**Ownership of the right way.** This is an identity-level commitment to being the standard-bearer. They model correct conduct and expect others to recognize it. When you skip their process or dismiss their method, you're challenging their fundamental role in the group.
 
-**Superiority through correctness.** Teamer Ones carry an often-unconscious need to feel superior, and they achieve it by being right. "I'm right and you're wrong" is the operating logic that gives them authority. If your message makes you easy to prove wrong—through sloppy reasoning, vague claims, or unsourced assertions—you've handed them permission to dismiss you.
+**Superiority through correctness.** Teamer Ones carry an often-unconscious need to feel superior, and they achieve it by being right. "I'm right and you're wrong" is the operating logic that gives them authority. If sloppy reasoning, vague claims, or unsourced assertions make you easy to prove wrong, you've handed them permission to dismiss you.
 
 ### 5 ways you're losing them before you start
 
 1. **"Just trust me" language.** "Trust me, this will work" or "I've got a good feeling about this." This undermines intellectual credibility with a person who trusts evidence, not assurances. Show your sources, lay out the logic, make the reasoning traceable from principle to conclusion.
 
-2. **Trendy novelty pitches.** "This is a cutting-edge approach" or "Everyone's moving to this model." Novelty for its own sake feels unserious and unprincipled to someone who deliberately doesn't adapt to changing fashions. Anchor your proposal to enduring standards—show how it better satisfies the existing criteria, not how it replaces them.
+2. **Trendy novelty pitches.** "This is a cutting-edge approach" or "Everyone's moving to this model." Novelty for its own sake feels unserious and unprincipled to someone who deliberately doesn't adapt to changing fashions. Anchor your proposal to enduring standards by showing how it better satisfies the existing criteria.
 
 3. **Ambiguous accountability.** "We'll figure out ownership as we go." This creates disorder and loss of control, which is intolerable for someone whose instinctual drive is correctness through structure. Assign explicit owners, define checkpoints, and specify who reviews what and when.
 
-4. **Public status challenges.** "I think your approach has some real gaps" in a team meeting. This triggers defensiveness around their need to be right, and you'll get a cold, thorough dismantling in return. Challenge their ideas with evidence, not ego. Do it privately when possible, and frame it as refining the standard rather than overturning it.
+4. **Public status challenges.** "I think your approach has some real gaps" in a team meeting. This triggers defensiveness around their need to be right, and you'll get a cold, thorough dismantling in return. Challenge their ideas with evidence, privately when possible, and frame it as refining the standard.
 
-5. **Emotion-first arguments.** "The team feels frustrated with this process." Feelings without data read as weak reasoning to someone who separates facts from assumptions from judgments. Lead with the logic—what the process produces, where it falls short by its own criteria—then include the human impact as supporting context.
+5. **Emotion-first arguments.** "The team feels frustrated with this process." Feelings without data read as weak reasoning to someone who separates facts from assumptions from judgments. Lead with the logic: what the process produces, where it falls short by its own criteria. Then include the human impact as supporting context.
 
 ### What they actually want to hear
 
@@ -50,7 +48,7 @@ Three traits drive how they process communication:
 | "I disagree with how this is being done." | "Here is the rule we are trying to satisfy and where the current method misses it." |
 | "Let's just iterate and see what happens." | "Run this controlled test with explicit pass/fail thresholds and review results Friday." |
 
-The pattern: every revision replaces subjective language with principled reasoning. The generic versions express a feeling or opinion. The optimized versions cite a standard, identify the gap, and propose a structured path forward. That's what a Teamer One's filter lets through.
+Every revision replaces subjective language with principled reasoning: cite a standard, identify the gap, propose a structured path forward. That's what a Teamer One's filter lets through.
 
 ---
 
@@ -97,15 +95,14 @@ input_source: prior_thread_message
 
 ---
 
-### This is one subtype out of twenty-seven.
-
+### Twenty-seven subtypes. One message.
 The Teamer One needs principled reasoning and structured accountability before they'll engage. Meanwhile, the Farmer Seven ("Keepers") needs you to protect their options and paint a picture of practical upside. The Hunter Four ("Competition") wants intensity and emotional honesty, not detached logic. Same message, three completely different failure modes.
 
-> ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
+> ***Personalization determines whether your message gets read or discarded.***
 
 Every time you send a message without considering how the recipient actually processes information, you're gambling that your defaults match their filters. For a Teamer One, generic communication almost never does.
 
-#### You're not being judged on your intent. You're being judged on your rigor.
+#### You're being judged on your rigor.
 
 It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 

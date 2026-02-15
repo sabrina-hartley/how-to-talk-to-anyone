@@ -4,7 +4,7 @@
 
 Your project lead emailed the team on Monday morning: "Big news — we're restructuring the Q3 roadmap. Details coming soon. Don't worry, everything is going to be great!"
 
-Most of the team shrugged and moved on. One person didn't. They reread the email four times. They opened the org chart. They checked Jira for reassigned tickets. They messaged three coworkers asking if anyone knew more. By lunch, they'd drafted a contingency plan for their own workstream — not because they were asked to, but because nobody else had acknowledged that "restructuring" means things could break.
+Most of the team shrugged and moved on. One person didn't. They reread the email four times. They opened the org chart. They checked Jira for reassigned tickets. They messaged three coworkers asking if anyone knew more. By lunch, they'd drafted a contingency plan for their own workstream, because nobody else had acknowledged that "restructuring" means things could break.
 
 Your announcement landed for most people as exciting news. For the Farmer Six, it landed as an unmitigated threat with a patronizing footnote. "Details coming soon" means there's no plan yet. "Don't worry" means you haven't done the risk assessment. "Everything is going to be great" means you're either lying or you haven't thought hard enough. Every sentence made them less safe, not more.
 
@@ -12,23 +12,21 @@ Your announcement landed for most people as exciting news. For the Farmer Six, i
 
 Most advice about workplace communication treats people as interchangeable. Write clearly. Be concise. Lead with empathy. These are fine defaults, and they fail constantly with specific people for specific reasons.
 
-Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
+Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. These are hardwired filters, running beneath conscious awareness, that determine whether your message lands or gets discarded before it's finished.
 
-The Farmer Six filters every message through one question: **is this safe, and can I trust the person saying it?** They're scanning for gaps between what you're promising and what you've actually secured. Optimism without operational backing doesn't comfort them — it disqualifies you. They don't need you to make them feel better. They need you to show them the plan, name the risks, and prove the safety net exists.
+The Farmer Six filters every message through one question: **is this safe, and can I trust the person saying it?** They're scanning for gaps between what you're promising and what you've actually secured. Optimism without operational backing disqualifies you. They need you to show them the plan, name the risks, and prove the safety net exists.
 
 ### Meet the Farmer Six: "Warmth"
 
-Here's what the research says about this subtype:
 
 > Farmer Sixes express the passion of fear through a need for protection, for friendship, and for banding together with others. In seeking protective alliances, Farmer Sixes endeavor to be warm, friendly, and trustworthy, which is why they bear the name "Warmth." This most "phobic" of the Sixes has difficulty expressing anger, feels uncertain, and engages in a lot of self-doubt. For Farmer Sixes, fear manifests as insecurity, and they focus on relationships as a way of feeling safer in the world.
 
-Three traits drive how they process communication:
 
-**Alliance as architecture.** Safety for this person isn't an internal state — it's a network. They build protective relationships the way engineers build redundant systems. When your message uses isolating language ("Can you handle this on your own?"), you're not delegating. You're cutting their safety net. They need to know who's on the team, who's accountable, and who has their back.
+**Alliance as architecture.** Safety for this person is a network. They build protective relationships the way engineers build redundant systems. When your message uses isolating language ("Can you handle this on your own?"), you're cutting their safety net. They need to know who's on the team, who's accountable, and who has their back.
 
-**Doubt as due diligence.** Their self-doubt isn't weakness. It's a scanning process. They're stress-testing every plan, every promise, and every timeline for the failure mode nobody mentioned. When you dismiss their concerns or hand-wave risks, you don't reassure them — you prove you haven't done the work. They trust people who acknowledge what could go wrong, not people who insist nothing will.
+**Doubt as due diligence.** Their self-doubt functions as a scanning process. They're stress-testing every plan, every promise, and every timeline for the failure mode nobody mentioned. When you dismiss their concerns or hand-wave risks, you prove you haven't done the work. They trust people who acknowledge what could go wrong, not people who insist nothing will.
 
-**Warmth as trust protocol.** They're warm because warmth builds alliances, and alliances build safety. But their warmth has a transactional core: they're tracking whether you're reliable, consistent, and honest. Overconfident promises, shifting commitments, or surprise changes all break the protocol. They don't need charisma. They need follow-through.
+**Warmth as trust protocol.** They're warm because warmth builds alliances, and alliances build safety. But their warmth has a transactional core: they're tracking whether you're reliable, consistent, and honest. Overconfident promises, shifting commitments, or surprise changes all break the protocol. They need follow-through.
 
 ### 5 ways you're losing them before you start
 
@@ -50,7 +48,7 @@ Three traits drive how they process communication:
 | "Just trust the process." | "Here is the process owner, timeline, and fallback if issue A appears." |
 | "Can you handle this alone?" | "We will handle this together. You own step one and I cover escalation." |
 
-The left column asks them to feel safe. The right column makes them actually safe. One is a request to suppress their instinct. The other is a blueprint they can rely on. The Farmer Six doesn't need emotional comfort — they need operational certainty.
+The Farmer Six needs operational certainty.
 
 ---
 
@@ -97,15 +95,14 @@ input_source: prior_thread_message
 
 ---
 
-### This is one subtype out of twenty-seven.
+### Twenty-seven subtypes. One message.
+The Farmer Six needs you to prove the safety net before they'll step forward. The Farmer Five ("Castle") needs you to prove you won't cross their boundaries before they'll engage at all. The Hunter Eight ("Possession") needs intensity and direct challenge, the very thing that would send the Farmer Six into a spiral. Same hallway, same office, three people filtering for completely different survival signals.
 
-The Farmer Six needs you to prove the safety net before they'll step forward. The Farmer Five ("Castle") needs you to prove you won't cross their boundaries before they'll engage at all. The Hunter Eight ("Possession") needs intensity and direct challenge — the very thing that would send the Farmer Six into a spiral. Same hallway, same office, three people filtering for completely different survival signals.
-
-> ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
+> ***Personalization determines whether your message gets read or discarded.***
 
 The leaders who learn to match their message to each person's threat-detection system will build teams that move faster and trust deeper. Everyone else will keep wondering why their reassuring emails make certain people more anxious, not less.
 
-#### "Don't worry" isn't reassurance. For twenty-seven subtypes, it means twenty-seven different things — and for this one, it means you haven't done your homework.
+#### "Don't worry" means twenty-seven different things to twenty-seven subtypes, and for this one, it means you haven't done your homework.
 
 It's why we're building [Rally](https://www.rally.ai/), communications automatically optimized for each person's instinctual profile. See how we do it: [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md).
 

@@ -4,7 +4,7 @@
 
 Generic communication is a coin flip. You write something clear, concise, and well-structured, send it to ten people, and get ten different reactions. Three people love it. Two ignore it. One gets offended. Four skim it and forget it existed.
 
-The problem is not your writing. The problem is that people do not process messages the same way. Personality science has mapped 27 distinct subtypes, each driven by a different instinctual filter that shapes how they receive, prioritize, and react to incoming information. These are not preferences someone can override. They are filters that run automatically, beneath conscious awareness.
+The problem is not your writing. The problem is that people do not process messages the same way. Personality science has mapped 27 distinct subtypes, each driven by a different instinctual filter that shapes how they receive, prioritize, and react to incoming information. These filters run automatically, beneath conscious awareness, and they cannot be overridden.
 
 The 27 subtypes break down across three instinct families:
 
@@ -12,7 +12,7 @@ The 27 subtypes break down across three instinct families:
 - **Teamer:** Filters for belonging, status, group dynamics, and group positioning. Nine types, each with a different relationship to the group.
 - **Hunter:** Filters for intensity, connection, power, and personal impact. Nine types, each with a different expression of drive.
 
-Each article in this series profiles one subtype, names the specific anti-patterns that fail with that person, shows before-and-after rewrites, and includes a **free prompt you can paste into any LLM** to optimize your message for that subtype.
+Every guide below profiles one subtype: what triggers them, what shuts them down, before-and-after rewrites, and a **free prompt you can paste into any LLM** to optimize your message for that person.
 
 ---
 
@@ -62,9 +62,9 @@ Each article in this series profiles one subtype, names the specific anti-patter
 
 ## How to Use This Series
 
-**Read the article.** Each one profiles the subtype's instinctual filter, names 5 anti-patterns that fail with that person, and shows before-and-after rewrites.
+**Read the article.** Pick the subtype that matches your recipient. You'll get the filter they use, 5 mistakes that kill your message, and before-and-after rewrites.
 
-**Use the free prompt.** Every article includes a structured prompt you can paste into ChatGPT, Claude, or any LLM after drafting a message. The model will rewrite your draft specifically for that subtype.
+**Use the free prompt.** Paste your draft into ChatGPT, Claude, or any LLM, then paste the prompt from the article. The model rewrites your message for that subtype.
 
 **Pair with the AI Smells guide.** This series fixes *who* your message targets. The [AI Smells Remover](./you-smell-like-bad-ai-2026-02-14.md) fixes *how* your AI writes. Use both.
 
