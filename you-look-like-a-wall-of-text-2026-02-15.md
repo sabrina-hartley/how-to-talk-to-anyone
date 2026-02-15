@@ -1,6 +1,6 @@
-# You Look Like a Wall of Text: How to Make Employee Communications Impossible to Miss
+# 3 Formatting Moves That Make Your Message Scannable and Critical Information Impossible to Miss
 
-## Your message was perfectly clear. Nobody read past line two.
+## The same words, reformatted in under 60 seconds, turned a 2-reply email into an 11-reply email.
 
 ![Scanability: from wall of text to structured clarity](./img/wall-of-text.png)
 
