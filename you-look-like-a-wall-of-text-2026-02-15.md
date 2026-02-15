@@ -66,52 +66,42 @@ Same information. Same word count. The formatted version gets replies because re
 
 ### Try it out: FREE Email Formatting Optimizer Prompt
 
-Paste your draft email into your LLM, then paste the following prompt after it. The model will reformat your message for maximum scanability without changing a single word.
+Paste your draft email into your LLM, then paste the following prompt after it. The model will add bold and italic markers to your existing text so readers can find what matters. It will not restructure, reorder, or rewrite anything.
 
 ```
 mode: post_generation_reprompt
-task: "Use the immediately preceding draft in this thread as input and reformat it for maximum scanability while preserving every original word."
-goal: "Output must be the exact same content reorganized with strategic formatting: bold, italic, headings, lists, whitespace, and paragraph breaks."
-stance: "Format only. Zero rewriting. Every word in the output must appear in the input."
-output_rules[6]:
-  - return only the reformatted draft
+task: "Use the immediately preceding draft in this thread as input. Add bold and italic formatting to improve scanability. Do not change anything else."
+goal: "Same text, same structure, same paragraph breaks, same order. The only difference is strategic bold and italic markers on key phrases."
+stance: "Minimal intervention. Bold the ask and the deadline. Italic the context. Leave everything else untouched."
+output_rules[5]:
+  - return only the formatted draft
   - no preface no framing and no wrap-up
-  - no headings like Reformatted Version or Final Draft
   - no explanations or notes about what was changed
-  - preserve every original word and phrase exactly
-  - do not add remove or rephrase any content
-non_negotiables[5]:
-  - never add words that were not in the original
-  - never remove words that were in the original
-  - never rephrase or reword any sentence
-  - never change tone emphasis or meaning through word choice
-  - formatting changes only: bold italic headings lists whitespace paragraph breaks
-format_rules[8]{id,name,when,how}:
-  1,bold_the_ask,deadlines actions or decisions that require reader response,wrap the key phrase in bold markers
-  2,italic_for_context,background info caveats or supporting detail readers may already know,wrap the contextual phrase or sentence in italic markers
-  3,no_underline_emphasis,underline is used for emphasis instead of links,remove underline emphasis and use bold or italic instead
-  4,add_headings,email extends beyond one screen or contains distinct topic sections,insert a short descriptive heading before each section
-  5,convert_to_lists,three or more parallel items are embedded in a prose paragraph,extract into a bulleted list or numbered list if order matters
-  6,paragraph_breaks,a paragraph contains more than one distinct idea or exceeds three sentences,split into separate paragraphs with one idea each
-  7,front_load_the_ask,the action or decision needed appears after background context,move the ask to the first line and push context below it
-  8,add_whitespace,sections run together with no visual separation,insert blank lines between sections and before lists
-reformat_process[5]:
-  - scan the draft for the primary ask and key deadlines
-  - identify sections that serve different purposes: ask vs context vs detail
-  - apply format_rules in priority order: front_load first then bold then lists then headings then whitespace
-  - verify every original word still appears in the output
-  - verify no new words were introduced
-quality_gate[6]:
-  - every word in the output must exist in the input
-  - no word in the input may be missing from the output
-  - bold is used on at most two phrases per section
-  - italic is used only for skippable context not for emphasis
-  - lists contain only items that were already parallel in the prose
-  - formatting changes must improve scanability without altering meaning
+  - preserve all original words sentences paragraphs and line breaks exactly
+  - do not reorder split merge or restructure any content
+non_negotiables[6]:
+  - never add words
+  - never remove words
+  - never rephrase or reword
+  - never split paragraphs or add line breaks that were not in the original
+  - never convert prose into lists
+  - never add headings that were not in the original
+bold_rules[3]:
+  - bold the primary ask or action the reader needs to take
+  - bold deadlines dates or time-sensitive phrases
+  - bold at most 2-3 short phrases per email. if everything is bold nothing is bold.
+italic_rules[2]:
+  - italic background context or supporting detail the reader can skip if they already know it
+  - italic at most 1-2 sentences per email. use sparingly.
+quality_gate[4]:
+  - the output must have identical structure and line breaks to the input
+  - no new paragraphs no new lists no new headings
+  - bold and italic markers are the only additions
+  - if a phrase does not contain a deadline ask or decision it should not be bold
 few_shot_examples[3]{id,in,out}:
-  s1,"I need the Q3 report finalized by Friday. The data is in the shared drive and Sarah has the latest client numbers.","**I need the Q3 report finalized by Friday.** *The data is in the shared drive and Sarah has the latest client numbers.*"
-  s2,"We should switch vendors for three reasons: cost is 30% lower, onboarding takes two days instead of two weeks, and their API matches our current stack.","We should switch vendors for three reasons:\n\n1. Cost is 30% lower\n2. Onboarding takes two days instead of two weeks\n3. Their API matches our current stack"
-  s3,"Hi team, quick update on the redesign. The homepage wireframes are approved. We still need sign-off on the mobile nav from product. Design will start the component library Monday. Please review the attached mockups before then.","Hi team, quick update on the redesign.\n\nThe homepage wireframes are approved. We still need **sign-off on the mobile nav from product.**\n\nDesign will start the component library Monday. **Please review the attached mockups before then.**"
+  s1,"I need the Q3 report finalized by Friday. The data is in the shared drive and Sarah has the latest client numbers.","I need the Q3 report **finalized by Friday.** *The data is in the shared drive and Sarah has the latest client numbers.*"
+  s2,"We should switch vendors for three reasons: cost is 30% lower, onboarding takes two days instead of two weeks, and their API matches our current stack.","We should switch vendors for three reasons: cost is 30% lower, onboarding takes two days instead of two weeks, and their API matches our current stack."
+  s3,"Hi team, quick update on the redesign. The homepage wireframes are approved. We still need sign-off on the mobile nav from product. Design will start the component library Monday. Please review the attached mockups before then.","Hi team, quick update on the redesign. The homepage wireframes are approved. We still need **sign-off on the mobile nav from product.** Design will start the component library Monday. **Please review the attached mockups before then.**"
 input_source: prior_thread_message
 ```
 
