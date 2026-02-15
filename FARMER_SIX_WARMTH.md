@@ -1,12 +1,12 @@
 # Your Reassurance Is Making Them Trust You Less
 
-## When you tell a Self-Preservation Six "don't worry," they hear "I haven't thought about what could go wrong."
+## When you tell a Farmer Six "don't worry," they hear "I haven't thought about what could go wrong."
 
 Your project lead emailed the team on Monday morning: "Big news — we're restructuring the Q3 roadmap. Details coming soon. Don't worry, everything is going to be great!"
 
 Most of the team shrugged and moved on. One person didn't. They reread the email four times. They opened the org chart. They checked Jira for reassigned tickets. They messaged three coworkers asking if anyone knew more. By lunch, they'd drafted a contingency plan for their own workstream — not because they were asked to, but because nobody else had acknowledged that "restructuring" means things could break.
 
-Your announcement landed for most people as exciting news. For the Self-Preservation Six, it landed as an unmitigated threat with a patronizing footnote. "Details coming soon" means there's no plan yet. "Don't worry" means you haven't done the risk assessment. "Everything is going to be great" means you're either lying or you haven't thought hard enough. Every sentence made them less safe, not more.
+Your announcement landed for most people as exciting news. For the Farmer Six, it landed as an unmitigated threat with a patronizing footnote. "Details coming soon" means there's no plan yet. "Don't worry" means you haven't done the risk assessment. "Everything is going to be great" means you're either lying or you haven't thought hard enough. Every sentence made them less safe, not more.
 
 ### The problem with generic communication
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Self-Preservation Six filters every message through one question: **is this safe, and can I trust the person saying it?** They're scanning for gaps between what you're promising and what you've actually secured. Optimism without operational backing doesn't comfort them — it disqualifies you. They don't need you to make them feel better. They need you to show them the plan, name the risks, and prove the safety net exists.
+The Farmer Six filters every message through one question: **is this safe, and can I trust the person saying it?** They're scanning for gaps between what you're promising and what you've actually secured. Optimism without operational backing doesn't comfort them — it disqualifies you. They don't need you to make them feel better. They need you to show them the plan, name the risks, and prove the safety net exists.
 
-### Meet the Self-Preservation Six: "Warmth"
+### Meet the Farmer Six: "Warmth"
 
 Here's what the research says about this subtype:
 
-> Self-Preservation Sixes express the passion of fear through a need for protection, for friendship, and for banding together with others. In seeking protective alliances, SP Sixes endeavor to be warm, friendly, and trustworthy, which is why they bear the name "Warmth." This most "phobic" of the Sixes has difficulty expressing anger, feels uncertain, and engages in a lot of self-doubt. For SP Sixes, fear manifests as insecurity, and they focus on relationships as a way of feeling safer in the world.
+> Farmer Sixes express the passion of fear through a need for protection, for friendship, and for banding together with others. In seeking protective alliances, Farmer Sixes endeavor to be warm, friendly, and trustworthy, which is why they bear the name "Warmth." This most "phobic" of the Sixes has difficulty expressing anger, feels uncertain, and engages in a lot of self-doubt. For Farmer Sixes, fear manifests as insecurity, and they focus on relationships as a way of feeling safer in the world.
 
 Three traits drive how they process communication:
 
@@ -50,11 +50,11 @@ Three traits drive how they process communication:
 | "Just trust the process." | "Here is the process owner, timeline, and fallback if issue A appears." |
 | "Can you handle this alone?" | "We will handle this together. You own step one and I cover escalation." |
 
-The left column asks them to feel safe. The right column makes them actually safe. One is a request to suppress their instinct. The other is a blueprint they can rely on. The Self-Preservation Six doesn't need emotional comfort — they need operational certainty.
+The left column asks them to feel safe. The right column makes them actually safe. One is a request to suppress their instinct. The other is a blueprint they can rely on. The Farmer Six doesn't need emotional comfort — they need operational certainty.
 
 ---
 
-### Try it out: FREE Communication Optimizer for Self-Preservation Sixes
+### Try it out: FREE Communication Optimizer for Farmer Sixes
 
 Paste your draft message into your LLM, then paste the following prompt after it. The model will rewrite your message specifically for this subtype.
 
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Self-Preservation Six needs you to prove the safety net before they'll step forward. The Self-Preservation Five ("Castle") needs you to prove you won't cross their boundaries before they'll engage at all. The Sexual Eight ("Possession") needs intensity and direct challenge — the very thing that would send the SP Six into a spiral. Same hallway, same office, three people filtering for completely different survival signals.
+The Farmer Six needs you to prove the safety net before they'll step forward. The Farmer Five ("Castle") needs you to prove you won't cross their boundaries before they'll engage at all. The Hunter Eight ("Possession") needs intensity and direct challenge — the very thing that would send the Farmer Six into a spiral. Same hallway, same office, three people filtering for completely different survival signals.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

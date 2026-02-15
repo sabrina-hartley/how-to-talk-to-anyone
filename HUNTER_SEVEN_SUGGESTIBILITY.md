@@ -6,7 +6,7 @@ Your product manager lit up when you pitched the new feature direction. "This co
 
 Three weeks later, nothing had shipped. The mobile version was half-specced. The AI layer had become a separate initiative with its own sub-ideas. The partnership angle had spawned two exploratory calls that went nowhere. When you checked in, she was genuinely enthusiastic: "I've been thinking about this a lot. I have so many ideas for where this could go." She had. And that was exactly the problem.
 
-You fed her imagination without feeding her execution structure. For this person—a Sexual Seven—possibility is intoxicating. It's also infinite. Without a concrete anchor in the first message, every exciting idea branches into three more, and none of them land. You didn't fail to inspire her. You failed to constrain the inspiration into something that could actually ship this week.
+You fed her imagination without feeding her execution structure. For this person—a Hunter Seven—possibility is intoxicating. It's also infinite. Without a concrete anchor in the first message, every exciting idea branches into three more, and none of them land. You didn't fail to inspire her. You failed to constrain the inspiration into something that could actually ship this week.
 
 ### The problem with generic communication
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Sexual Seven filters every incoming message through one lens: **does this open up exciting possibilities and ideal futures worth pursuing with enthusiastic imaginative focus?** If your message sparks possibility, they're in—immediately, completely, with contagious energy. But that same energy will scatter across a dozen directions unless your message also plants a flag in the ground: this one, this week, this metric.
+The Hunter Seven filters every incoming message through one lens: **does this open up exciting possibilities and ideal futures worth pursuing with enthusiastic imaginative focus?** If your message sparks possibility, they're in—immediately, completely, with contagious energy. But that same energy will scatter across a dozen directions unless your message also plants a flag in the ground: this one, this week, this metric.
 
-### Meet the Sexual Seven: "Suggestibility"
+### Meet the Hunter Seven: "Suggestibility"
 
 Here's what the research says about this subtype:
 
-> Sexual Sevens express gluttony through a need to imagine something better than ordinary reality. Gluttons for things of a higher world, they are idealistic dreamers with a passion for living in their imaginations. Sexual Sevens look at things with the optimism of someone who is in love; they see the world through rose-colored glasses. "Suggestibility" refers to being somewhat naive and easy to hypnotize. Light-hearted and enthusiastic, they focus on exciting possibilities and pleasurable fantasies, and they believe they can do everything.
+> Hunter Sevens express gluttony through a need to imagine something better than ordinary reality. Gluttons for things of a higher world, they are idealistic dreamers with a passion for living in their imaginations. Hunter Sevens look at things with the optimism of someone who is in love; they see the world through rose-colored glasses. "Suggestibility" refers to being somewhat naive and easy to hypnotize. Light-hearted and enthusiastic, they focus on exciting possibilities and pleasurable fantasies, and they believe they can do everything.
 
 Three traits drive how they process communication:
 
@@ -54,7 +54,7 @@ The pattern: pair every vision with an experiment. Pair every possibility with a
 
 ---
 
-### Try it out: FREE Communication Optimizer for Sexual Sevens
+### Try it out: FREE Communication Optimizer for Hunter Sevens
 
 Paste your draft message into your LLM, then paste the following prompt after it.
 
@@ -62,7 +62,7 @@ Paste your draft message into your LLM, then paste the following prompt after it
 mode: communication_optimizer
 target_subtype: HUNTER_SEVEN
 subtype_name: Suggestibility
-instinct: sexual
+instinct: hunter
 core_drive: "pursue exciting possibilities and ideal futures with enthusiastic imaginative focus"
 communication_stance: "visionary,yet-grounded,possibility-rich,reality-anchored"
 tone[4]:
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Sexual Seven needs exciting possibilities anchored in immediate execution. The Social Seven ("Sacrifice") shares their optimistic energy but channels it into group service—they need to see how the idea benefits the collective, not just how thrilling it is. The Self-Preservation Five ("Castle") operates from the opposite instinct entirely—they need minimal stimulation, maximum self-sufficiency, and time to think alone before committing to anything. Your inspiring brainstorm pitch would energize the Seven, bore the Five, and frustrate the Six who's still waiting for your risk assessment.
+The Hunter Seven needs exciting possibilities anchored in immediate execution. The Teamer Seven ("Sacrifice") shares their optimistic energy but channels it into group service—they need to see how the idea benefits the collective, not just how thrilling it is. The Farmer Five ("Castle") operates from the opposite instinct entirely—they need minimal stimulation, maximum self-sufficiency, and time to think alone before committing to anything. Your inspiring brainstorm pitch would energize the Seven, bore the Five, and frustrate the Six who's still waiting for your risk assessment.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

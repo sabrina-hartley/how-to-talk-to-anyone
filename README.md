@@ -8,15 +8,15 @@ The problem is not your writing. The problem is that people do not process messa
 
 The 27 subtypes break down across three instinct families:
 
-- **Farmer (Self-Preservation):** Filters for safety, resources, stability, and practical utility. Nine types, each with a different survival strategy.
-- **Teamer (Social):** Filters for belonging, status, group dynamics, and social positioning. Nine types, each with a different relationship to the group.
-- **Hunter (Sexual/One-to-One):** Filters for intensity, connection, power, and personal impact. Nine types, each with a different expression of drive.
+- **Farmer:** Filters for safety, resources, stability, and practical utility. Nine types, each with a different survival strategy.
+- **Teamer:** Filters for belonging, status, group dynamics, and group positioning. Nine types, each with a different relationship to the group.
+- **Hunter:** Filters for intensity, connection, power, and personal impact. Nine types, each with a different expression of drive.
 
 Each article in this series profiles one subtype, names the specific anti-patterns that fail with that person, shows before-and-after rewrites, and includes a **free prompt you can paste into any LLM** to optimize your message for that subtype.
 
 ---
 
-## Farmer (Self-Preservation) Subtypes
+## Farmer Subtypes
 
 | Subtype | Type | Core Filter | Key Risk |
 |---|---|---|---|
@@ -30,7 +30,7 @@ Each article in this series profiles one subtype, names the specific anti-patter
 | [Satisfaction](./FARMER_EIGHT_SATISFACTION.md) | Eight | Timely satisfaction of material needs with zero frustration tolerance | Indirect openers |
 | [Appetite](./FARMER_NINE_APPETITE.md) | Nine | Maintain comfort through routine, concrete activity, and low friction | Abstract strategy talk |
 
-## Teamer (Social) Subtypes
+## Teamer Subtypes
 
 | Subtype | Type | Core Filter | Key Risk |
 |---|---|---|---|
@@ -44,12 +44,12 @@ Each article in this series profiles one subtype, names the specific anti-patter
 | [Solidarity](./TEAMER_EIGHT_SOLIDARITY.md) | Eight | Use strength to protect others and lead with loyal action | Detached analysis without protective mission |
 | [Participation](./TEAMER_NINE_PARTICIPATION.md) | Nine | Belong through group participation while losing personal priorities | Exclusion cues |
 
-## Hunter (Sexual/One-to-One) Subtypes
+## Hunter Subtypes
 
 | Subtype | Type | Core Filter | Key Risk |
 |---|---|---|---|
 | [Zeal](./HUNTER_ONE_ZEAL.md) | One | Reform what is wrong with urgent moral intensity | Passive voice and hidden agency |
-| [Seduction](./HUNTER_TWO_SEDUCTION.md) | Two | Secure needs through intense one-to-one magnetism and power | Coy ambiguity |
+| [Seduction](./HUNTER_TWO_SEDUCTION.md) | Two | Secure needs through intense personal magnetism and power | Coy ambiguity |
 | [Charisma](./HUNTER_THREE_CHARISMA.md) | Three | Achieve through attractiveness, advocacy, and promoting others | Self-only bragging |
 | [Competition](./HUNTER_FOUR_COMPETITION.md) | Four | Transform deficiency into competitive intensity and recognition | Vague harmony talk |
 | [Confidence](./HUNTER_FIVE_CONFIDENCE.md) | Five | Seek deep trust and ideal connection while protecting inner world | Superficial banter |

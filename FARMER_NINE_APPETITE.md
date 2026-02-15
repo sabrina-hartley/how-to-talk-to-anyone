@@ -1,12 +1,12 @@
 # They Said "Sounds Good" and Then Did Absolutely Nothing
 
-## The Self-Preservation Nine isn't resisting your request. Your request just doesn't fit anywhere in their day.
+## The Farmer Nine isn't resisting your request. Your request just doesn't fit anywhere in their day.
 
 You sent your most reliable team member a message on Tuesday afternoon: "We need a full plan for next quarter. Think deeply about your long-term priorities and get back to me with a comprehensive roadmap. The sooner the better."
 
 They replied "Sounds good!" within minutes. Wednesday passed. Thursday passed. Friday you followed up. "Hey — any progress on that roadmap?" They said they'd been busy but would get to it over the weekend. Monday came. Nothing.
 
-They weren't lying. They genuinely intended to do it. But "think deeply about long-term priorities" has no edges. It doesn't connect to anything they're doing right now, today, at their desk. There's no first step, no time slot, no link to an existing routine. For a Self-Preservation Nine, your request didn't land as a task — it landed as an abstraction. And abstractions don't compete with the concrete, comfortable flow of the work already in front of them. Your message wasn't unclear. It was unanchored.
+They weren't lying. They genuinely intended to do it. But "think deeply about long-term priorities" has no edges. It doesn't connect to anything they're doing right now, today, at their desk. There's no first step, no time slot, no link to an existing routine. For a Farmer Nine, your request didn't land as a task — it landed as an abstraction. And abstractions don't compete with the concrete, comfortable flow of the work already in front of them. Your message wasn't unclear. It was unanchored.
 
 ### The problem with generic communication
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Self-Preservation Nine filters incoming messages through one question: **can I do this without disrupting my current state of comfortable momentum?** They're not lazy — they're inertial. Objects in motion stay in motion, objects at rest stay at rest, and your message needs to work *with* the motion they're already in. Abstract requests, open-ended timelines, and multiple options create friction. Friction creates stalling. Stalling looks like agreement followed by silence.
+The Farmer Nine filters incoming messages through one question: **can I do this without disrupting my current state of comfortable momentum?** They're not lazy — they're inertial. Objects in motion stay in motion, objects at rest stay at rest, and your message needs to work *with* the motion they're already in. Abstract requests, open-ended timelines, and multiple options create friction. Friction creates stalling. Stalling looks like agreement followed by silence.
 
-### Meet the Self-Preservation Nine: "Appetite"
+### Meet the Farmer Nine: "Appetite"
 
 Here's what the research says about this subtype:
 
-> Instead of feeling an ongoing connection to their feelings, desires, and power, Self-Preservation Nines focus on merging with physical comforts and routine activities, such as eating, sleeping, reading, or doing crossword puzzles. SP Nines are practical, concrete people who focus on everyday things rather than abstractions.
+> Instead of feeling an ongoing connection to their feelings, desires, and power, Farmer Nines focus on merging with physical comforts and routine activities, such as eating, sleeping, reading, or doing crossword puzzles. Farmer Nines are practical, concrete people who focus on everyday things rather than abstractions.
 
 Three traits drive how they process communication:
 
@@ -34,7 +34,7 @@ Three traits drive how they process communication:
 
 1. **Abstract strategy talk.** "Let's think about the big picture for next quarter." They heard syllables, not a task. Translate every idea into a concrete, physical action. What do they open? What do they type? Where do they send it? If you can't answer those questions, your request isn't ready for this person yet.
 
-2. **Too many options.** "Here are six approaches we could take — pick whichever feels right." You just created a decision maze with no default path. The SP Nine will evaluate none of them and do nothing. Offer one recommended default plus one alternative at most. Choose for them, and give them permission to adjust.
+2. **Too many options.** "Here are six approaches we could take — pick whichever feels right." You just created a decision maze with no default path. The Farmer Nine will evaluate none of them and do nothing. Offer one recommended default plus one alternative at most. Choose for them, and give them permission to adjust.
 
 3. **Pressure and urgency.** "This is urgent and I need it ASAP." Urgency doesn't accelerate them — it freezes them. The gap between their current pace and your demanded pace creates internal friction, and friction produces passive resistance, not speed. Use calm, direct pacing. Give them a specific time ("by 2 PM today") rather than a stress signal ("ASAP").
 
@@ -50,11 +50,11 @@ Three traits drive how they process communication:
 | "Think deeply about your long-term priorities." | "Choose one concrete priority for this week and schedule it now." |
 | "Please make progress soon." | "Do step A after lunch today and send a one-line update." |
 
-The left column asks for output without specifying the action. The right column specifies the action without overwhelming the scope. One requires them to generate their own structure from nothing. The other snaps directly into their day. The SP Nine doesn't need motivation — they need a groove to slide into.
+The left column asks for output without specifying the action. The right column specifies the action without overwhelming the scope. One requires them to generate their own structure from nothing. The other snaps directly into their day. The Farmer Nine doesn't need motivation — they need a groove to slide into.
 
 ---
 
-### Try it out: FREE Communication Optimizer for Self-Preservation Nines
+### Try it out: FREE Communication Optimizer for Farmer Nines
 
 Paste your draft message into your LLM, then paste the following prompt after it. The model will rewrite your message specifically for this subtype.
 
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Self-Preservation Nine needs you to reduce friction and attach tasks to their existing rhythm. The Self-Preservation Seven ("Keepers of the Castle") wants the opposite — more options, more speed, more opportunity density. The Sexual Four ("Competition") needs emotional intensity and challenge as fuel. Your calm, one-step message would land perfectly for the Nine, bore the Seven, and feel dismissively flat to the Four. Same request, three different operating systems.
+The Farmer Nine needs you to reduce friction and attach tasks to their existing rhythm. The Farmer Seven ("Keepers of the Castle") wants the opposite — more options, more speed, more opportunity density. The Hunter Four ("Competition") needs emotional intensity and challenge as fuel. Your calm, one-step message would land perfectly for the Nine, bore the Seven, and feel dismissively flat to the Four. Same request, three different operating systems.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

@@ -20,7 +20,7 @@ Here are 8 well-documented examples:
 
 5. **Verbose, structured rambling.** Prose that restates the same point in multiple ways instead of saying it once and moving on. 'Nuff said.
 
-6. **LinkedIn staccato.** Short, line-broken sentences with dramatic spacing. Reads like a social media post optimized for scrolling rather than a document written for a specific audience.
+6. **LinkedIn staccato.** Short, line-broken sentences with dramatic spacing. Reads like a feed-style media post optimized for scrolling rather than a document written for a specific audience.
 
 7. **Prompt-echoing.** Output that mirrors the instruction it received instead of executing on it. A section heading that says "(brief)" because the prompt asked for brevity. An opening line that says "Here is a concise summary" because the prompt asked for one. The model describes what it was told to do instead of doing it.
 

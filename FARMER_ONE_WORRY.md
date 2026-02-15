@@ -4,7 +4,7 @@
 
 Last Tuesday, a project lead sent a Slack message to their most reliable team member: "Can you clean this up when you get a chance? Just make it better."
 
-The intent was casual delegation. Quick task, trusted person, easy handoff. The recipient—a Self-Preservation One—read it six times. Clean *what* up? To what standard? What does "better" mean? Is "when you get a chance" today or this week? And "just make it better" implies it's currently bad, but nobody specified *how* it's bad.
+The intent was casual delegation. Quick task, trusted person, easy handoff. The recipient—a Farmer One—read it six times. Clean *what* up? To what standard? What does "better" mean? Is "when you get a chance" today or this week? And "just make it better" implies it's currently bad, but nobody specified *how* it's bad.
 
 They didn't reply for forty minutes. Not because they were busy. Because they were building a mental checklist of every possible interpretation, trying to figure out how to do it right without a definition of right. By the time they started, they were anxious, slightly resentful, and already bracing for the goalposts to move.
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Self-Preservation One runs every incoming message through a single filter: **does this meet the standard, and can I execute it correctly?** Their instinctual drive is to be good and correct through disciplined self-improvement—while keeping anger tightly contained beneath a warm, agreeable surface. If your message introduces ambiguity about what "correct" means, you haven't just been unclear. You've activated their deepest anxiety.
+The Farmer One runs every incoming message through a single filter: **does this meet the standard, and can I execute it correctly?** Their instinctual drive is to be good and correct through disciplined self-improvement—while keeping anger tightly contained beneath a warm, agreeable surface. If your message introduces ambiguity about what "correct" means, you haven't just been unclear. You've activated their deepest anxiety.
 
-### Meet the Self-Preservation One: "Worry"
+### Meet the Farmer One: "Worry"
 
 Here's what the research says about this subtype:
 
-> Self-Preservation Ones are the true perfectionists of the three Ones. They express the passion of anger through working hard to make themselves and the things they do more perfect. In this subtype, anger is the most repressed emotion; the defense mechanism of reaction formation transforms the heat of anger into warmth, resulting in a friendly and benevolent character.
+> Farmer Ones are the true perfectionists of the three Ones. They express the passion of anger through working hard to make themselves and the things they do more perfect. In this subtype, anger is the most repressed emotion; the defense mechanism of reaction formation transforms the heat of anger into warmth, resulting in a friendly and benevolent character.
 
 Three traits drive how they process communication:
 
@@ -54,7 +54,7 @@ The left column is warm but formless. The right column is precise and operationa
 
 ---
 
-### Try it out: FREE Communication Optimizer for Self-Preservation Ones
+### Try it out: FREE Communication Optimizer for Farmer Ones
 
 Paste your draft message into your LLM, then paste the following prompt after it. The model will rewrite your message specifically for this subtype.
 
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Self-Preservation One needs standards and precision before they can act. Compare that to the Sexual One ("Zeal"), who channels anger outward as reforming intensity—they don't want your checklist, they want your conviction. Or the Social Two ("Ambition"), who filters every message through strategic influence and expects you to acknowledge their power. Same workplace, same Slack channel, completely different filters running beneath the surface.
+The Farmer One needs standards and precision before they can act. Compare that to the Hunter One ("Zeal"), who channels anger outward as reforming intensity—they don't want your checklist, they want your conviction. Or the Teamer Two ("Ambition"), who filters every message through strategic influence and expects you to acknowledge their power. Same workplace, same Slack channel, completely different filters running beneath the surface.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

@@ -2,7 +2,7 @@
 
 ## Some people aren't ignoring your message because it's bad. They're ignoring it because it wasn't built for them.
 
-You wrote a solid pitch. Clear value prop, friendly tone, reasonable ask. You sent it to a Self-Preservation Eight and they deleted it before the second sentence.
+You wrote a solid pitch. Clear value prop, friendly tone, reasonable ask. You sent it to a Farmer Eight and they deleted it before the second sentence.
 
 Not because the content was wrong. Because the packaging triggered every filter they have. You opened with rapport-building. They wanted the bottom line. You hedged with "could potentially help." They read that as weakness. You framed your offer as support. They heard "I think you need rescuing."
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. The difference matters: a preference is something someone would like. A filter is something they can't turn off.
 
-A Self-Preservation Eight, nicknamed "Satisfaction," operates on one instinctual drive: **the timely satisfaction of material needs with zero tolerance for frustration.** Everything they hear passes through that filter. If your message creates friction before it delivers value, you've already lost.
+A Farmer Eight, nicknamed "Satisfaction," operates on one instinctual drive: **the timely satisfaction of material needs with zero tolerance for frustration.** Everything they hear passes through that filter. If your message creates friction before it delivers value, you've already lost.
 
-### Meet the Self-Preservation Eight: "Satisfaction"
+### Meet the Farmer Eight: "Satisfaction"
 
 Here's what the research says about this subtype:
 
-> SP Eights have a strong desire for the timely satisfaction of material needs and an intolerance for frustration. SP Eights know how to survive in difficult situations and feel omnipotent when it comes to getting what they need. They are the least expressive and the most armed of the three Eight subtypes.
+> Farmer Eights have a strong desire for the timely satisfaction of material needs and an intolerance for frustration. Farmer Eights know how to survive in difficult situations and feel omnipotent when it comes to getting what they need. They are the least expressive and the most armed of the three Eight subtypes.
 
 Three traits drive how they process communication:
 
@@ -54,7 +54,7 @@ Same information. Completely different signal. The left column says "I'm friendl
 
 ---
 
-### Try it out: FREE Communication Optimizer for Self-Preservation Eights
+### Try it out: FREE Communication Optimizer for Farmer Eights
 
 Paste your draft message into your LLM, then paste the following prompt after it. The model will rewrite your message specifically for this subtype.
 
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Self-Preservation Eight is one specific filter configuration. The Self-Preservation Six ("Warmth") needs safety signals and contingency plans before they'll trust a message. The Social Three ("Prestige") needs to see how your request connects to visible achievement and status. The Sexual Four ("Competition") needs you to channel intensity into challenge, not smooth it over with harmony.
+The Farmer Eight is one specific filter configuration. The Farmer Six ("Warmth") needs safety signals and contingency plans before they'll trust a message. The Teamer Three ("Prestige") needs to see how your request connects to visible achievement and status. The Hunter Four ("Competition") needs you to channel intensity into challenge, not smooth it over with harmony.
 
 Same sender, same content, twenty-seven different ways it lands.
 

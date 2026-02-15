@@ -4,7 +4,7 @@
 
 You sent a perfectly reasonable Slack message to the project lead asking the team to shift to a new vendor for a critical integration. You explained the business case. You laid out the benefits. You even added a friendly "let me know what you think!"
 
-The project lead—a Social Six—read it twice and then did nothing. Not because they disagreed. Because your message had no procedural foundation. No reference to the procurement policy. No mention of who authorized the change. No escalation path if something broke. You presented an opportunity. They saw an unmanaged risk.
+The project lead—a Teamer Six—read it twice and then did nothing. Not because they disagreed. Because your message had no procedural foundation. No reference to the procurement policy. No mention of who authorized the change. No escalation path if something broke. You presented an opportunity. They saw an unmanaged risk.
 
 Two days later you followed up. They replied with four questions: "Which policy covers this? Who signed off? What's the rollback plan? Where's the documentation?" Your original message answered none of them. You weren't wrong. You were just speaking a language their filters don't process.
 
@@ -14,17 +14,17 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Social Six runs every incoming message through one filter: **does this reduce anxiety through rules, authority, precision, and procedural certainty?** If your communication doesn't anchor to policy, name the authority, and spell out the procedure, it doesn't matter how smart the idea is. It registers as unverified, and unverified is unsafe.
+The Teamer Six runs every incoming message through one filter: **does this reduce anxiety through rules, authority, precision, and procedural certainty?** If your communication doesn't anchor to policy, name the authority, and spell out the procedure, it doesn't matter how smart the idea is. It registers as unverified, and unverified is unsafe.
 
-### Meet the Social Six: "Duty"
+### Meet the Teamer Six: "Duty"
 
 Here's what the research says about this subtype:
 
-> Social Sixes express fear through a need to deal with anxiety by relying on abstract reason or ideologies as a frame of reference. Obeying authority through knowing what the rules are helps them to feel safe in the world. Unlike the SP Six, this Six has more certainty and can be "too sure" of things as a way of dealing with the anxiety of uncertainty. Social Sixes focus on precision and efficiency. They adhere to whatever the guidelines are as a form of having a protective authority.
+> Teamer Sixes express fear through a need to deal with anxiety by relying on abstract reason or ideologies as a frame of reference. Obeying authority through knowing what the rules are helps them to feel safe in the world. Unlike the Farmer Six, this Six has more certainty and can be "too sure" of things as a way of dealing with the anxiety of uncertainty. Teamer Sixes focus on precision and efficiency. They adhere to whatever the guidelines are as a form of having a protective authority.
 
 Three traits drive how they process communication:
 
-**Rule-anchored certainty.** Social Sixes don't just prefer structure—they require it to function. Their anxiety doesn't come from the task itself but from ambiguity about whether the task is sanctioned. When you skip the policy reference, you're not being casual. You're removing the one thing that lets them act with confidence.
+**Rule-anchored certainty.** Teamer Sixes don't just prefer structure—they require it to function. Their anxiety doesn't come from the task itself but from ambiguity about whether the task is sanctioned. When you skip the policy reference, you're not being casual. You're removing the one thing that lets them act with confidence.
 
 **Precision as safety.** Approximate language is threatening to this subtype. "This should work" and "This will work per testing protocol 3B" carry the same content but completely different emotional weight. The first creates anxiety. The second resolves it. They're not being pedantic. They're managing fear through exactness.
 
@@ -54,7 +54,7 @@ The pattern is consistent: replace ambiguity with procedure, replace informality
 
 ---
 
-### Try it out: FREE Communication Optimizer for Social Sixes
+### Try it out: FREE Communication Optimizer for Teamer Sixes
 
 Paste your draft message into your LLM, then paste the following prompt after it.
 
@@ -62,7 +62,7 @@ Paste your draft message into your LLM, then paste the following prompt after it
 mode: communication_optimizer
 target_subtype: TEAMER_SIX
 subtype_name: Duty
-instinct: social
+instinct: teamer
 core_drive: "reduce anxiety through rules authority precision and procedural certainty"
 communication_stance: "protocol-driven,precise,compliance-oriented,certainty-seeking"
 tone[4]:
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Social Six needs procedural certainty before they'll act. The Self-Preservation Seven ("Keepers") needs to know their resources are protected before they'll engage. The Sexual One ("Zeal") needs to feel that you share their standard of rightness before they'll listen. Same message, three completely different filters deciding whether it gets through.
+The Teamer Six needs procedural certainty before they'll act. The Farmer Seven ("Keepers") needs to know their resources are protected before they'll engage. The Hunter One ("Zeal") needs to feel that you share their standard of rightness before they'll listen. Same message, three completely different filters deciding whether it gets through.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

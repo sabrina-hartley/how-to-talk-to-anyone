@@ -2,9 +2,9 @@
 
 ## They keep showing up. They keep saying yes. And you have no idea what they actually think.
 
-You sent a group message asking for input on a new project direction. You got strong opinions from three people, silence from two, and a quick "Sounds good to me!" from one. That last person—a Social Nine—just disappeared into the consensus without ever being seen.
+You sent a group message asking for input on a new project direction. You got strong opinions from three people, silence from two, and a quick "Sounds good to me!" from one. That last person—a Teamer Nine—just disappeared into the consensus without ever being seen.
 
-You took their agreement at face value. Why wouldn't you? They seemed supportive. But "sounds good to me" wasn't agreement. It was the path of least resistance. They had reservations about the timeline. They thought one of the workstreams was underscoped. They didn't say any of this because your message didn't create a space where their individual perspective was explicitly requested. You asked the group. The group answered. The Social Nine merged with the group answer and their own voice vanished.
+You took their agreement at face value. Why wouldn't you? They seemed supportive. But "sounds good to me" wasn't agreement. It was the path of least resistance. They had reservations about the timeline. They thought one of the workstreams was underscoped. They didn't say any of this because your message didn't create a space where their individual perspective was explicitly requested. You asked the group. The group answered. The Teamer Nine merged with the group answer and their own voice vanished.
 
 A month later, the project hit exactly the problems they saw coming. They weren't withholding insight out of spite. They were doing what their filter does automatically: prioritize belonging over individual assertion. Your message didn't fail because it was unclear. It failed because it never asked them, specifically, to exist separately from the group.
 
@@ -14,25 +14,25 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Social Nine runs everything through one instinctual filter: **belong through group participation while tending to lose personal priorities.** They're wired to merge with the collective. If your message addresses the group without carving out a specific role for them, they'll participate—but only as an echo of whatever the group decides. Their own perspective, needs, and limits never make it to the surface.
+The Teamer Nine runs everything through one instinctual filter: **belong through group participation while tending to lose personal priorities.** They're wired to merge with the collective. If your message addresses the group without carving out a specific role for them, they'll participate—but only as an echo of whatever the group decides. Their own perspective, needs, and limits never make it to the surface.
 
-### Meet the Social Nine: "Participation"
+### Meet the Teamer Nine: "Participation"
 
 Here's what the research says about this subtype:
 
-> Social Nines fuse with groups. They act out laziness when connecting with their own inner life by working hard to be a part of the different groups in their lives. Fun-loving, sociable, and congenial characters, Social Nines can be workaholics, prioritizing the group's needs above their own. This high level of activity makes them the countertype of the three Nine subtypes.
+> Teamer Nines fuse with groups. They act out laziness when connecting with their own inner life by working hard to be a part of the different groups in their lives. Fun-loving, sociable, and congenial characters, Teamer Nines can be workaholics, prioritizing the group's needs above their own. This high level of activity makes them the countertype of the three Nine subtypes.
 
 Three traits drive how they process communication:
 
 **Group fusion.** They don't just participate in groups—they dissolve into them. Their sense of identity becomes the group's identity. This makes them extraordinarily easy to work with on the surface and extraordinarily hard to actually reach as individuals. When you address the team, they hear "the team." When you address them by name with a specific role, they hear themselves.
 
-**Active self-erasure.** Unlike the stereotypical lazy Nine, the Social Nine is a workaholic—but the work is directed at belonging, not personal goals. They'll take on enormous amounts of labor to stay connected and valuable to the group. The danger isn't that they'll disengage. It's that they'll engage with everything except their own priorities, and you'll never know because they look busy and happy.
+**Active self-erasure.** Unlike the stereotypical lazy Nine, the Teamer Nine is a workaholic—but the work is directed at belonging, not personal goals. They'll take on enormous amounts of labor to stay connected and valuable to the group. The danger isn't that they'll disengage. It's that they'll engage with everything except their own priorities, and you'll never know because they look busy and happy.
 
 **Conflict avoidance through agreement.** Disagreement threatens belonging. So they agree. Not maliciously. Automatically. Your message won't get pushback even when pushback is exactly what you need. If you want their real opinion, you have to create a structured, safe, explicit invitation for it—because their filter will suppress it by default.
 
 ### 5 ways you're losing them before you start
 
-1. **Exclusion cues.** "The core team will handle this—everyone else can sit tight." You just told a Social Nine they don't belong, which is the one thing that triggers withdrawal. Signal belonging and shared value, even when narrowing scope.
+1. **Exclusion cues.** "The core team will handle this—everyone else can sit tight." You just told a Teamer Nine they don't belong, which is the one thing that triggers withdrawal. Signal belonging and shared value, even when narrowing scope.
 
 2. **Endless meetings.** "Let's keep the conversation going and see where we land." Unstructured group time consumes their energy without giving them direction. Define the agenda, the outcomes, and the end time. Give them something concrete to participate in, not an open sea to drift through.
 
@@ -54,7 +54,7 @@ The pattern: replace open-ended group asks with specific individual assignments.
 
 ---
 
-### Try it out: FREE Communication Optimizer for Social Nines
+### Try it out: FREE Communication Optimizer for Teamer Nines
 
 Paste your draft message into your LLM, then paste the following prompt after it.
 
@@ -62,7 +62,7 @@ Paste your draft message into your LLM, then paste the following prompt after it
 mode: communication_optimizer
 target_subtype: TEAMER_NINE
 subtype_name: Participation
-instinct: social
+instinct: teamer
 core_drive: "belong through group participation while tending to lose personal priorities"
 communication_stance: "belonging-focused,role-clarifying,inclusive,priorities-balancing"
 tone[4]:
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Social Nine disappears into the group and needs you to pull their individual voice out. The Sexual Four ("Competition") has the opposite problem—they need intensity and distinction, not belonging. The Social Six ("Duty") needs procedural authority and rule-based certainty before they'll commit to anything. Same team meeting, three people hearing completely different messages and none of them hearing what you intended.
+The Teamer Nine disappears into the group and needs you to pull their individual voice out. The Hunter Four ("Competition") has the opposite problem—they need intensity and distinction, not belonging. The Teamer Six ("Duty") needs procedural authority and rule-based certainty before they'll commit to anything. Same team meeting, three people hearing completely different messages and none of them hearing what you intended.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

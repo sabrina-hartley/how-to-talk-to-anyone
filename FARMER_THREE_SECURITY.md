@@ -4,7 +4,7 @@
 
 A VP closed out the quarterly review with a handwritten note to their top engineer: "You are amazing and always so helpful. The team couldn't do it without you!" They meant it. They were genuinely grateful.
 
-The engineer—a Self-Preservation Three—read it, nodded politely, and felt nothing. Worse than nothing. A faint irritation. "Amazing" compared to what standard? "Always so helpful" in what measurable way? "Couldn't do it without you" is the kind of thing you say to everyone. It's the participation trophy of workplace praise. This person shipped three features under budget and ahead of schedule, and the feedback they got could have been written by someone who didn't read a single commit message.
+The engineer—a Farmer Three—read it, nodded politely, and felt nothing. Worse than nothing. A faint irritation. "Amazing" compared to what standard? "Always so helpful" in what measurable way? "Couldn't do it without you" is the kind of thing you say to everyone. It's the participation trophy of workplace praise. This person shipped three features under budget and ahead of schedule, and the feedback they got could have been written by someone who didn't read a single commit message.
 
 The VP thought they'd strengthened the relationship. The engineer quietly started updating their resume. Not because of the note—because the note confirmed something they'd suspected for months: leadership doesn't actually track the quality of their work. They track how things *look*.
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Self-Preservation Three runs every message through a credibility detector: **is this backed by substance, or is it just image?** Their core drive is to earn security through quality, integrity, and disciplined productivity. They don't want to look good—they want to *be* good. And they can spot the difference between grounded recognition and hollow flattery faster than anyone in the room. If your message prioritizes style over substance, you've triggered the exact thing they spend their life trying to avoid.
+The Farmer Three runs every message through a credibility detector: **is this backed by substance, or is it just image?** Their core drive is to earn security through quality, integrity, and disciplined productivity. They don't want to look good—they want to *be* good. And they can spot the difference between grounded recognition and hollow flattery faster than anyone in the room. If your message prioritizes style over substance, you've triggered the exact thing they spend their life trying to avoid.
 
-### Meet the Self-Preservation Three: "Security"
+### Meet the Farmer Three: "Security"
 
 Here's what the research says about this subtype:
 
-> The Self-Preservation Three has a sense of vanity for having no vanity. This Three also wants to be admired by others, but avoids openly seeking recognition. Not just satisfied with looking good, the SP Three strives to be good. They are determined to be a good person—to match the perfect model of how a person should be. Being the perfect model of quality implies virtue, and virtue implies a lack of vanity. SP Threes seek a sense of security through being good, working hard, and being effective and productive.
+> The Farmer Three has a sense of vanity for having no vanity. This Three also wants to be admired by others, but avoids openly seeking recognition. Not just satisfied with looking good, the Farmer Three strives to be good. They are determined to be a good person—to match the perfect model of how a person should be. Being the perfect model of quality implies virtue, and virtue implies a lack of vanity. Farmer Threes seek a sense of security through being good, working hard, and being effective and productive.
 
 Three traits drive how they process communication:
 
@@ -54,7 +54,7 @@ The left column sells. The right column builds. For this subtype, communication 
 
 ---
 
-### Try it out: FREE Communication Optimizer for Self-Preservation Threes
+### Try it out: FREE Communication Optimizer for Farmer Threes
 
 Paste your draft message into your LLM, then paste the following prompt after it. The model will rewrite your message specifically for this subtype.
 
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Self-Preservation Three needs substance and credibility before they'll trust your message. Compare that to the Social Three ("Prestige"), who actually *wants* the spotlight and filters for status and visible achievement. Or the Self-Preservation One ("Worry"), who also values discipline and standards but processes communication through anxiety about correctness rather than credibility. Same drive for quality, completely different filter mechanisms determining what gets through.
+The Farmer Three needs substance and credibility before they'll trust your message. Compare that to the Teamer Three ("Prestige"), who actually *wants* the spotlight and filters for status and visible achievement. Or the Farmer One ("Worry"), who also values discipline and standards but processes communication through anxiety about correctness rather than credibility. Same drive for quality, completely different filter mechanisms determining what gets through.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

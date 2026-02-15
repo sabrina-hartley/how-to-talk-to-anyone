@@ -4,7 +4,7 @@
 
 You walked into a cross-functional sync with a solid risk mitigation plan. The slides were clean. The data was there. You presented it to the team lead with a collaborative opener: "I think we can manage this if we stay calm and work through it together. Let me know your thoughts."
 
-The team lead—a Sexual Six—stared at you for a beat too long. Then asked: "What's the fallback if the primary plan fails? Who's running point if we get hit this week instead of next month? What's the trigger for escalation?" You blinked. Your plan didn't have those answers because you hadn't thought in those terms. You were presenting a strategy. They were looking for a battle plan.
+The team lead—a Hunter Six—stared at you for a beat too long. Then asked: "What's the fallback if the primary plan fails? Who's running point if we get hit this week instead of next month? What's the trigger for escalation?" You blinked. Your plan didn't have those answers because you hadn't thought in those terms. You were presenting a strategy. They were looking for a battle plan.
 
 They didn't reject your work. They rejected your posture. The calm, open-ended "let me know your thoughts" read as someone who hasn't thought about what happens when things go sideways. And to this person, someone who hasn't prepared for the worst is someone who can't be trusted when it arrives.
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Sexual Six runs every incoming message through one filter: **does this person demonstrate the strength, readiness, and decisive defensive capability to handle what's coming?** If your communication hedges, softens, or avoids confronting the threat head-on, it doesn't register as diplomatic. It registers as unprepared. And unprepared, to this subtype, is dangerous.
+The Hunter Six runs every incoming message through one filter: **does this person demonstrate the strength, readiness, and decisive defensive capability to handle what's coming?** If your communication hedges, softens, or avoids confronting the threat head-on, it doesn't register as diplomatic. It registers as unprepared. And unprepared, to this subtype, is dangerous.
 
-### Meet the Sexual Six: "Strength/Beauty"
+### Meet the Hunter Six: "Strength/Beauty"
 
 Here's what the research says about this subtype:
 
-> Sexual Sixes express fear by going against fear—by becoming strong and intimidating. Trusting themselves more than others, these Sixes have the inner programming that when you are afraid, the best defense is a good offense. They take on a powerful stance, both in what they do and how they look, as a way of holding the enemy at a distance. Their anxiety is allayed through skill and readiness in the face of an attack.
+> Hunter Sixes express fear by going against fear—by becoming strong and intimidating. Trusting themselves more than others, these Sixes have the inner programming that when you are afraid, the best defense is a good offense. They take on a powerful stance, both in what they do and how they look, as a way of holding the enemy at a distance. Their anxiety is allayed through skill and readiness in the face of an attack.
 
 Three traits drive how they process communication:
 
@@ -54,7 +54,7 @@ The pattern: replace calm with competence. Replace hope with readiness. Replace 
 
 ---
 
-### Try it out: FREE Communication Optimizer for Sexual Sixes
+### Try it out: FREE Communication Optimizer for Hunter Sixes
 
 Paste your draft message into your LLM, then paste the following prompt after it.
 
@@ -62,7 +62,7 @@ Paste your draft message into your LLM, then paste the following prompt after it
 mode: communication_optimizer
 target_subtype: HUNTER_SIX
 subtype_name: Strength_Beauty
-instinct: sexual
+instinct: hunter
 core_drive: "master fear by projecting strength readiness and decisive defensive capability"
 communication_stance: "strength-signaling,direct,readiness-focused,mutual-respect"
 tone[4]:
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Sexual Six needs strength-backed readiness before they'll trust you. The Social Six ("Duty") shares their core anxiety but resolves it through rules and procedural certainty—they need policy references, not battle plans. The Sexual Eight ("Possession") also leads with intensity, but from dominance rather than defense—they need you to match their power, not prove your preparedness. Same energy, completely different filters.
+The Hunter Six needs strength-backed readiness before they'll trust you. The Teamer Six ("Duty") shares their core anxiety but resolves it through rules and procedural certainty—they need policy references, not battle plans. The Hunter Eight ("Possession") also leads with intensity, but from dominance rather than defense—they need you to match their power, not prove your preparedness. Same energy, completely different filters.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

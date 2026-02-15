@@ -6,7 +6,7 @@ Priya needed someone to take over the onboarding redesign. The obvious choice wa
 
 Jordan read it twice. "Help the team." "Pitch in." "Support." Every phrase positioned him as a background player, one of many contributors to someone else's project. No ownership. No visibility. No mention of who would see the results or what this would mean for his standing. He replied: "Happy to help where I can," and then did the minimum.
 
-Priya thought Jordan was disengaged. Jordan thought Priya had no idea what motivated him. They were both right. She'd written a perfectly collegial message that stripped out everything a Social Two actually cares about—influence, visible impact, and strategic positioning. She didn't need more enthusiasm from Jordan. She needed better packaging.
+Priya thought Jordan was disengaged. Jordan thought Priya had no idea what motivated him. They were both right. She'd written a perfectly collegial message that stripped out everything a Teamer Two actually cares about—influence, visible impact, and strategic positioning. She didn't need more enthusiasm from Jordan. She needed better packaging.
 
 ### The problem with generic communication
 
@@ -14,31 +14,31 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Social Two filters every incoming message through one question: **what does this do for my influence?** Their core drive is to win admiration and advantages through strategic generosity. They give—often lavishly—but there's always a calculus running underneath. If your message doesn't show them the prestige, the reach, or the leadership position, they'll deprioritize it no matter how important the work actually is.
+The Teamer Two filters every incoming message through one question: **what does this do for my influence?** Their core drive is to win admiration and advantages through strategic generosity. They give—often lavishly—but there's always a calculus running underneath. If your message doesn't show them the prestige, the reach, or the leadership position, they'll deprioritize it no matter how important the work actually is.
 
-### Meet the Social Two: "Ambition"
+### Meet the Teamer Two: "Ambition"
 
 Here's what the research says about this subtype:
 
-> The Social Two is a seducer of environments and groups—a powerful, leader type whose pride manifests as a sense of satisfaction in the conquest of an audience. This is a more adult Two in whom pride is the most obvious; the Social Two cultivates an image of being an influential, supercompetent person worthy of admiration. The name "Ambition" reflects this person's desire to "be on top," and as a result of this lofty position, receive advantages and benefits. This Two "gives to get" the most and always has a strategic angle when expressing generosity.
+> The Teamer Two is a seducer of environments and groups—a powerful, leader type whose pride manifests as a sense of satisfaction in the conquest of an audience. This is a more adult Two in whom pride is the most obvious; the Teamer Two cultivates an image of being an influential, supercompetent person worthy of admiration. The name "Ambition" reflects this person's desire to "be on top," and as a result of this lofty position, receive advantages and benefits. This Two "gives to get" the most and always has a strategic angle when expressing generosity.
 
 Three traits drive how they process communication:
 
-**Status awareness.** Social Twos are always tracking where they stand relative to the people who matter. Not in a petty way—in a structural way. They need to know: does this role elevate me? Does this audience see me? Does this contribution position me closer to influence? Messages that ignore this calculus feel tone-deaf to them, no matter how well-intentioned.
+**Status awareness.** Teamer Twos are always tracking where they stand relative to the people who matter. Not in a petty way—in a structural way. They need to know: does this role elevate me? Does this audience see me? Does this contribution position me closer to influence? Messages that ignore this calculus feel tone-deaf to them, no matter how well-intentioned.
 
-**Strategic generosity.** They are genuinely generous—and the generosity is never random. Every favor, every mentorship, every late night helping a colleague builds a web of reciprocal obligation and social capital. When you frame a request as pure altruism ("we all need to pitch in"), you're asking them to work for free in their internal economy. Name the exchange.
+**Strategic generosity.** They are genuinely generous—and the generosity is never random. Every favor, every mentorship, every late night helping a colleague builds a web of reciprocal obligation and teamer capital. When you frame a request as pure altruism ("we all need to pitch in"), you're asking them to work for free in their internal economy. Name the exchange.
 
-**Image cultivation.** The Social Two invests heavily in appearing influential and supercompetent. Their self-image depends on being seen as someone who gets things done at scale. Messages that make them invisible, that bury their contribution in collective effort, or that position them as helpers rather than leaders actively work against their identity.
+**Image cultivation.** The Teamer Two invests heavily in appearing influential and supercompetent. Their self-image depends on being seen as someone who gets things done at scale. Messages that make them invisible, that bury their contribution in collective effort, or that position them as helpers rather than leaders actively work against their identity.
 
 ### 5 ways you're losing them before you start
 
 1. **Modesty-only framing.** "This is a great chance to contribute quietly behind the scenes." This underplays their status motivation entirely. They don't want behind the scenes—they want the keynote. Connect effort to prestige and reach. Tell them who will see the results.
 
-2. **Invisible contributions.** "Your work on this will really help the project." Help is invisible. What's visible? Who presents it? Who gets credited? If the social reward is missing, so is their motivation. Make impact visible to key stakeholders—name the audience.
+2. **Invisible contributions.** "Your work on this will really help the project." Help is invisible. What's visible? Who presents it? Who gets credited? If the teamer reward is missing, so is their motivation. Make impact visible to key stakeholders—name the audience.
 
-3. **Naive altruism language.** "It's the right thing to do" or "The team really needs this." This ignores the strategic reality of how Social Twos operate. They'll do it, but grudgingly and at half-speed. Name the mutual benefit explicitly: what they give and what they get.
+3. **Naive altruism language.** "It's the right thing to do" or "The team really needs this." This ignores the strategic reality of how Teamer Twos operate. They'll do it, but grudgingly and at half-speed. Name the mutual benefit explicitly: what they give and what they get.
 
-4. **Vague role definition.** "Jump in wherever you see fit." This blurs influence and authority, which is exactly what a Social Two needs clarity on. Define the title, the scope, and the decision rights. They need to know they're leading, not floating.
+4. **Vague role definition.** "Jump in wherever you see fit." This blurs influence and authority, which is exactly what a Teamer Two needs clarity on. Define the title, the scope, and the decision rights. They need to know they're leading, not floating.
 
 5. **Flat delivery.** "It would be good if you could handle this." No energy, no stakes, no vision. This fails to inspire followership in someone who runs on high-agency, decisive energy. Use language that matches their intensity—ownership, impact, shaping the narrative.
 
@@ -50,11 +50,11 @@ Three traits drive how they process communication:
 | "Your support would be appreciated." | "Your sponsorship will increase adoption and position you as the primary driver." |
 | "We all need to pitch in." | "Own this workstream and shape the narrative across the organization." |
 
-The pattern: every revision replaces collective anonymity with individual ownership and visible impact. The generic versions ask for help. The optimized versions offer a stage. A Social Two doesn't want to be appreciated—they want to be positioned.
+The pattern: every revision replaces collective anonymity with individual ownership and visible impact. The generic versions ask for help. The optimized versions offer a stage. A Teamer Two doesn't want to be appreciated—they want to be positioned.
 
 ---
 
-### Try it out: FREE Communication Optimizer for Social Twos
+### Try it out: FREE Communication Optimizer for Teamer Twos
 
 Paste your draft message into your LLM, then paste the following prompt after it.
 
@@ -62,7 +62,7 @@ Paste your draft message into your LLM, then paste the following prompt after it
 mode: communication_optimizer
 target_subtype: TEAMER_TWO
 subtype_name: Ambition
-instinct: social
+instinct: teamer
 core_drive: "win influence admiration and advantages through strategic generosity"
 communication_stance: "status-aware,impact-framed,leadership-oriented,strategic"
 tone[4]:
@@ -79,7 +79,7 @@ message_rules[6]:
   - close with a high-visibility next move
 anti_patterns[5]{id,pattern,why_it_fails,fix}:
   1,modesty_only_framing,underplays status motivation,connect effort to prestige and reach
-  2,invisible_contributions,removes social reward,make impact visible to key stakeholders
+  2,invisible_contributions,removes teamer reward,make impact visible to key stakeholders
   3,naive_altruism_language,ignores strategic reality,name mutual benefit explicitly
   4,vague_role_definition,blurs influence and authority,define title scope and decision rights
   5,flat_delivery,fails to inspire followership,use decisive and high-agency phrasing
@@ -99,11 +99,11 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Social Two needs influence and visible positioning before they'll fully engage. Compare that to the Self-Preservation One ("Worry"), who needs airtight risk mitigation before they'll even read past your subject line. Or the Sexual Five ("Confidence"), who needs intellectual depth and one-on-one trust before they'll share what they actually think. Same request, three completely different currencies.
+The Teamer Two needs influence and visible positioning before they'll fully engage. Compare that to the Farmer One ("Worry"), who needs airtight risk mitigation before they'll even read past your subject line. Or the Hunter Five ("Confidence"), who needs intellectual depth and one-on-one trust before they'll share what they actually think. Same request, three completely different currencies.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 
-You're not failing to motivate people. You're failing to speak in the currency they actually trade in. For a Social Two, that currency is influence, visibility, and strategic return on effort.
+You're not failing to motivate people. You're failing to speak in the currency they actually trade in. For a Teamer Two, that currency is influence, visibility, and strategic return on effort.
 
 #### They're already calculating what your message is worth to them. Make sure the math works.
 

@@ -4,7 +4,7 @@
 
 A team lead needed three deliverables by Friday. They wrote a clean, efficient Slack message: "Please complete the following tasks by EOD Friday: 1) Update the client deck. 2) Reconcile the Q3 numbers. 3) Send the vendor follow-up." Hit send. Moved on.
 
-The recipient—a Self-Preservation Two—stared at the message for a full minute. No greeting. No acknowledgment. No "how are you" or "thanks for your work this week." Just tasks. The message was clear. It was concise. And it landed like a door closing in their face.
+The recipient—a Farmer Two—stared at the message for a full minute. No greeting. No acknowledgment. No "how are you" or "thanks for your work this week." Just tasks. The message was clear. It was concise. And it landed like a door closing in their face.
 
 They completed the work. But they did it with a low-grade ache that colored the entire week—a feeling they couldn't quite name but that sounded something like: *I'm just a task queue to this person.* The team lead never knew. The Two didn't say anything. They just got a little quieter in the next standup, a little less willing to volunteer.
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Self-Preservation Two filters every message through a single question: **does this person value me for who I am—or only for what I produce?** Their core drive is to be loved and prioritized just for existing, not for their output. If your opening line is transactional, you've already answered that question the wrong way. Everything after it gets processed through the lens of rejection.
+The Farmer Two filters every message through a single question: **does this person value me for who I am—or only for what I produce?** Their core drive is to be loved and prioritized just for existing, not for their output. If your opening line is transactional, you've already answered that question the wrong way. Everything after it gets processed through the lens of rejection.
 
-### Meet the Self-Preservation Two: "Privilege"
+### Meet the Farmer Two: "Privilege"
 
 Here's what the research says about this subtype:
 
-> Self-Preservation Twos "seduce" like a child in the presence of grown-ups as a way of (unconsciously) inducing others to take care of them. Everyone likes children, and the SP Two adopts a youthful stance as a way of getting special treatment well beyond childhood. As the countertype, it's less easy to see pride in this Two because they are more fearful of and ambivalent about connecting with others. The title "Privilege" reflects this Two's desire to be loved and prioritized just for being who they are, not for what they give to others. Related to the youthful stance, these Twos are playful, irresponsible, and charming.
+> Farmer Twos "seduce" like a child in the presence of grown-ups as a way of (unconsciously) inducing others to take care of them. Everyone likes children, and the Farmer Two adopts a youthful stance as a way of getting special treatment well beyond childhood. As the countertype, it's less easy to see pride in this Two because they are more fearful of and ambivalent about connecting with others. The title "Privilege" reflects this Two's desire to be loved and prioritized just for being who they are, not for what they give to others. Related to the youthful stance, these Twos are playful, irresponsible, and charming.
 
 Three traits drive how they process communication:
 
@@ -54,7 +54,7 @@ The left column is efficient but emotionally barren. The right column leads with
 
 ---
 
-### Try it out: FREE Communication Optimizer for Self-Preservation Twos
+### Try it out: FREE Communication Optimizer for Farmer Twos
 
 Paste your draft message into your LLM, then paste the following prompt after it. The model will rewrite your message specifically for this subtype.
 
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Self-Preservation Two needs warmth before they'll trust your content. Compare that to the Self-Preservation Eight ("Satisfaction"), who reads warmth as manipulation and wants you to skip straight to the bottom line. Or the Social One ("Non-Adaptability"), who doesn't care whether you like them—they care whether you're following the correct principles. Same office, same email thread, three completely different prerequisites for a message that lands.
+The Farmer Two needs warmth before they'll trust your content. Compare that to the Farmer Eight ("Satisfaction"), who reads warmth as manipulation and wants you to skip straight to the bottom line. Or the Teamer One ("Non-Adaptability"), who doesn't care whether you like them—they care whether you're following the correct principles. Same office, same email thread, three completely different prerequisites for a message that lands.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

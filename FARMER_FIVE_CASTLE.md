@@ -4,9 +4,9 @@
 
 You wrote a friendly Slack message to a senior engineer on your team. "Hey! Just checking in — wanted to see how you're feeling about the project direction. Would love to hop on a quick call to brainstorm some ideas. I think your perspective would really add a lot!"
 
-Warm. Enthusiastic. Collegial. And for a Self-Preservation Five, it's a three-alarm fire.
+Warm. Enthusiastic. Collegial. And for a Farmer Five, it's a three-alarm fire.
 
-They didn't see friendliness. They saw: an unstructured social demand (the call), an emotional labor request (how are you *feeling*?), a vague scope with no exit (brainstorm), and an implicit obligation disguised as a compliment (your perspective would add a lot). Four boundary violations in three sentences. They didn't respond. Not because they're antisocial. Because your message required more energy to navigate than you realize, and they calculated — correctly — that ignoring it was cheaper than managing you.
+They didn't see friendliness. They saw: an unstructured teamer demand (the call), an emotional labor request (how are you *feeling*?), a vague scope with no exit (brainstorm), and an implicit obligation disguised as a compliment (your perspective would add a lot). Four boundary violations in three sentences. They didn't respond. Not because they're antisocial. Because your message required more energy to navigate than you realize, and they calculated — correctly — that ignoring it was cheaper than managing you.
 
 ### The problem with generic communication
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Self-Preservation Five runs every incoming message through one filter: **does this protect or violate my boundaries, privacy, and self-sufficiency?** They aren't evaluating whether your message is useful. They're evaluating whether engaging with it will cost more energy than they can afford. If your communication demands social performance, emotional disclosure, or open-ended interaction, you've already been sorted into the "drain" category — and they don't have a budget for drains.
+The Farmer Five runs every incoming message through one filter: **does this protect or violate my boundaries, privacy, and self-sufficiency?** They aren't evaluating whether your message is useful. They're evaluating whether engaging with it will cost more energy than they can afford. If your communication demands teamer performance, emotional disclosure, or open-ended interaction, you've already been sorted into the "drain" category — and they don't have a budget for drains.
 
-### Meet the Self-Preservation Five: "Castle"
+### Meet the Farmer Five: "Castle"
 
 Here's what the research says about this subtype:
 
-> The Self-Preservation Five expresses avarice through a focus on boundaries — a need to be "encastled" in a sanctuary where they feel protected from intrusion and have control over their boundaries. SP Fives have a passion for being able to hide behind walls and know that they have everything they need to survive within those walls. They are the least expressive of the three Fives and they try to limit their needs and wants so that they can avoid being dependent on others.
+> The Farmer Five expresses avarice through a focus on boundaries — a need to be "encastled" in a sanctuary where they feel protected from intrusion and have control over their boundaries. Farmer Fives have a passion for being able to hide behind walls and know that they have everything they need to survive within those walls. They are the least expressive of the three Fives and they try to limit their needs and wants so that they can avoid being dependent on others.
 
 Three traits drive how they process communication:
 
@@ -32,7 +32,7 @@ Three traits drive how they process communication:
 
 ### 5 ways you're losing them before you start
 
-1. **Pinging again (and again).** "Hey, just circling back on this!" "Following up again — any thoughts?" Each ping costs them energy and adds social debt they didn't agree to. Batch your requests into one clear message, give them a single response window with a deadline, and stop.
+1. **Pinging again (and again).** "Hey, just circling back on this!" "Following up again — any thoughts?" Each ping costs them energy and adds teamer debt they didn't agree to. Batch your requests into one clear message, give them a single response window with a deadline, and stop.
 
 2. **Vague asks that force cognitive labor.** "Can we discuss the project sometime?" Discuss what? What decision? What do you need from them specifically? Undefined scope means they have to do your thinking for you before they can even start their own. State the exact decision needed and the context required to make it.
 
@@ -54,7 +54,7 @@ The pattern: the left column demands interaction. The right column delivers a bo
 
 ---
 
-### Try it out: FREE Communication Optimizer for Self-Preservation Fives
+### Try it out: FREE Communication Optimizer for Farmer Fives
 
 Paste your draft message into your LLM, then paste the following prompt after it. The model will rewrite your message specifically for this subtype.
 
@@ -73,7 +73,7 @@ tone[4]:
 message_rules[6]:
   - start with purpose and required decision in line one
   - provide complete information in compact structure
-  - respect boundaries and avoid social pressure
+  - respect boundaries and avoid teamer pressure
   - offer async response windows and low-interruption channels
   - minimize emotional signaling and unnecessary pleasantries
   - close with independent next step and deadline
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Self-Preservation Five wants you to stay out of their castle unless you bring a clear purpose. The Self-Preservation Six ("Warmth") wants the opposite — they need you to come closer, signal trustworthiness, and prove you're a reliable ally. The Sexual Seven ("Suggestibility") filters for imaginative possibility and rose-colored optimism. Same Slack message, three completely different threat assessments.
+The Farmer Five wants you to stay out of their castle unless you bring a clear purpose. The Farmer Six ("Warmth") wants the opposite — they need you to come closer, signal trustworthiness, and prove you're a reliable ally. The Hunter Seven ("Suggestibility") filters for imaginative possibility and rose-colored optimism. Same Slack message, three completely different threat assessments.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

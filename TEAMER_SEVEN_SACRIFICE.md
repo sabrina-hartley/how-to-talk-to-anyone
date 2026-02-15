@@ -4,7 +4,7 @@
 
 You needed someone to take on a thankless cross-functional project. Tight timeline, unclear scope, high visibility but low glory. You sent the ask to your team and one person responded within minutes: "I'm in. Happy to help however needed."
 
-That was a Social Seven. And you just activated the exact pattern that will eventually destroy their capacity to contribute. They didn't say yes because the project was a good fit. They said yes because saying yes to service is how they prove they're a good person. Their identity is built on sacrifice, and your message just gave them another opportunity to prove it.
+That was a Teamer Seven. And you just activated the exact pattern that will eventually destroy their capacity to contribute. They didn't say yes because the project was a good fit. They said yes because saying yes to service is how they prove they're a good person. Their identity is built on sacrifice, and your message just gave them another opportunity to prove it.
 
 Three weeks later they're behind on their own deliverables, working late on yours, and insisting everything's fine. You praised their dedication. What you actually did was reward self-erasure. The message that landed them here wasn't manipulative. It was just blind to the filter it was passing through.
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Social Seven filters every message through one drive: **be good and valuable through service, idealism, and conscientious self-restraint.** They're scanning for moral meaning. If your request connects to values and contribution, they'll jump. If it doesn't set boundaries, they'll give until there's nothing left. Your job isn't to motivate them—they're already motivated. Your job is to protect them from their own filter.
+The Teamer Seven filters every message through one drive: **be good and valuable through service, idealism, and conscientious self-restraint.** They're scanning for moral meaning. If your request connects to values and contribution, they'll jump. If it doesn't set boundaries, they'll give until there's nothing left. Your job isn't to motivate them—they're already motivated. Your job is to protect them from their own filter.
 
-### Meet the Social Seven: "Sacrifice"
+### Meet the Teamer Seven: "Sacrifice"
 
 Here's what the research says about this subtype:
 
-> Social Sevens go against gluttony through conscientious efforts to be of service to others. Conscious of wanting to avoid exploiting others, they have a need to be good and pure and to sacrifice their own needs in supporting the needs of others. They have a passion for being seen as good for the sacrifice of their own desires. They express an ascetic ideal and make a virtue of getting by on little. They express idealism and enthusiasm as a way of making themselves feel active and valued in the world.
+> Teamer Sevens go against gluttony through conscientious efforts to be of service to others. Conscious of wanting to avoid exploiting others, they have a need to be good and pure and to sacrifice their own needs in supporting the needs of others. They have a passion for being seen as good for the sacrifice of their own desires. They express an ascetic ideal and make a virtue of getting by on little. They express idealism and enthusiasm as a way of making themselves feel active and valued in the world.
 
 Three traits drive how they process communication:
 
@@ -54,7 +54,7 @@ The pattern: honor their service instinct while building in the containment they
 
 ---
 
-### Try it out: FREE Communication Optimizer for Social Sevens
+### Try it out: FREE Communication Optimizer for Teamer Sevens
 
 Paste your draft message into your LLM, then paste the following prompt after it.
 
@@ -62,7 +62,7 @@ Paste your draft message into your LLM, then paste the following prompt after it
 mode: communication_optimizer
 target_subtype: TEAMER_SEVEN
 subtype_name: Sacrifice
-instinct: social
+instinct: teamer
 core_drive: "be good and valuable through service idealism and conscientious self-restraint"
 communication_stance: "values-centered,service-framed,ethical,balanced"
 tone[4]:
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Social Seven sacrifices for the group and needs you to set the limits they won't. The Social Eight ("Solidarity") also serves the group, but through protective force—they need you to name who's at risk and what the decisive action is. The Self-Preservation Nine ("Appetite") merges with creature comforts and needs you to lead with tangible, sensory specifics. Same desire to help, completely different instinctual wiring determining what gets through.
+The Teamer Seven sacrifices for the group and needs you to set the limits they won't. The Teamer Eight ("Solidarity") also serves the group, but through protective force—they need you to name who's at risk and what the decisive action is. The Farmer Nine ("Appetite") merges with creature comforts and needs you to lead with tangible, sensory specifics. Same desire to help, completely different instinctual wiring determining what gets through.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

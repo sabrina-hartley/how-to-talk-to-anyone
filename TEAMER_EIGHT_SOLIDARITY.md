@@ -4,7 +4,7 @@
 
 You noticed tension on the team after a round of layoffs. People were anxious, morale was low, and you wanted to address it. So you sent a thoughtful message to your most trusted team lead: "I know this has been hard on everyone. I really care about the team and I hope things start to improve. Let's keep collaborating and supporting each other through this."
 
-The team lead—a Social Eight—read your message and felt something between disappointment and contempt. Not because they're heartless. Because your message was. You named the problem and offered feelings. They needed you to name who was exposed and offer a plan. "I care about the team" told them nothing. "I have the team covered—here's who owns what and when" would have told them everything.
+The team lead—a Teamer Eight—read your message and felt something between disappointment and contempt. Not because they're heartless. Because your message was. You named the problem and offered feelings. They needed you to name who was exposed and offer a plan. "I care about the team" told them nothing. "I have the team covered—here's who owns what and when" would have told them everything.
 
 They didn't reply. Instead they started making their own protection plan, cutting you out of the loop entirely. You lost credibility not because you lacked empathy, but because you led with it instead of leading with action.
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Social Eight processes every message through one filter: **use strength and aggression to protect others and lead with loyal action.** They're not listening for warmth. They're listening for whether you'll stand up when it counts. Empathy without a concrete protective action doesn't register as care. It registers as weakness dressed up as concern.
+The Teamer Eight processes every message through one filter: **use strength and aggression to protect others and lead with loyal action.** They're not listening for warmth. They're listening for whether you'll stand up when it counts. Empathy without a concrete protective action doesn't register as care. It registers as weakness dressed up as concern.
 
-### Meet the Social Eight: "Solidarity"
+### Meet the Teamer Eight: "Solidarity"
 
 Here's what the research says about this subtype:
 
-> Social Eights express lust and aggression in the service of others. A social antisocial person, this is the countertype of the Eights, a helpful Eight who appears less aggressive and more loyal than the other two Eight subtypes. The name "Solidarity" emphasizes their tendency to offer help when people need protection.
+> Teamer Eights express lust and aggression in the service of others. A group-focused yet antisocial person, this is the countertype of the Eights, a helpful Eight who appears less aggressive and more loyal than the other two Eight subtypes. The name "Solidarity" emphasizes their tendency to offer help when people need protection.
 
 Three traits drive how they process communication:
 
@@ -54,7 +54,7 @@ The pattern: replace care language with protection language. Replace hope with c
 
 ---
 
-### Try it out: FREE Communication Optimizer for Social Eights
+### Try it out: FREE Communication Optimizer for Teamer Eights
 
 Paste your draft message into your LLM, then paste the following prompt after it.
 
@@ -62,7 +62,7 @@ Paste your draft message into your LLM, then paste the following prompt after it
 mode: communication_optimizer
 target_subtype: TEAMER_EIGHT
 subtype_name: Solidarity
-instinct: social
+instinct: teamer
 core_drive: "use strength and aggression to protect others and lead with loyal action"
 communication_stance: "protective-leadership,mission-first,loyalty-coded,decisive"
 tone[4]:
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Social Eight needs protective action and loyal commitment. The Social Two ("Ambition") also leads groups, but through strategic influence—they need to see how your request elevates their position and reach. The Self-Preservation Five ("Castle") operates from the opposite instinct entirely—they need minimal intrusion, maximum self-sufficiency, and a clear boundary around their resources. Same workplace, completely different operating systems deciding what gets through.
+The Teamer Eight needs protective action and loyal commitment. The Teamer Two ("Ambition") also leads groups, but through strategic influence—they need to see how your request elevates their position and reach. The Farmer Five ("Castle") operates from the opposite instinct entirely—they need minimal intrusion, maximum self-sufficiency, and a clear boundary around their resources. Same workplace, completely different operating systems deciding what gets through.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 

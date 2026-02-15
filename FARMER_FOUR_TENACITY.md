@@ -4,7 +4,7 @@
 
 A well-meaning colleague watched their teammate push through a brutal three-week sprint—understaffed, under-scoped, and dealing with a vendor meltdown that nobody else wanted to touch. When it finally shipped, they dropped a message in the team channel: "You've been through so much and it will be okay! Just stay positive and keep going. Everything will work out."
 
-The teammate—a Self-Preservation Four—read every word and felt their jaw tighten. "It will be okay" is what people say when they haven't looked at the actual situation. "Stay positive" is advice for someone who has the luxury of choosing their mood. "Everything will work out" is a prediction with zero evidence behind it. None of this acknowledged what actually happened: that they held the project together through sheer force of will while absorbing pain they never mentioned.
+The teammate—a Farmer Four—read every word and felt their jaw tighten. "It will be okay" is what people say when they haven't looked at the actual situation. "Stay positive" is advice for someone who has the luxury of choosing their mood. "Everything will work out" is a prediction with zero evidence behind it. None of this acknowledged what actually happened: that they held the project together through sheer force of will while absorbing pain they never mentioned.
 
 The message was meant as encouragement. It landed as erasure. Not because the sender was wrong to care—but because this person's entire survival strategy is built on enduring hard things without pretending they're easy. And the message asked them to pretend.
 
@@ -14,13 +14,13 @@ Most advice about workplace communication treats people as interchangeable. Writ
 
 Personality science has mapped this for decades. The Enneagram identifies 27 distinct subtypes, each with a different instinctual drive that shapes how they filter, prioritize, and react to incoming messages. Not preferences. Filters. A preference is something someone would like. A filter is something they can't turn off.
 
-The Self-Preservation Four filters everything through one question: **does this person respect what it actually costs to do this work?** Their core drive is to endure pain through stoic effort and earn what's missing through discipline. They don't want your sympathy. They don't want your sunshine. They want you to see the real difficulty, name it plainly, and then point at the next concrete step. Anything else feels like you're not paying attention.
+The Farmer Four filters everything through one question: **does this person respect what it actually costs to do this work?** Their core drive is to endure pain through stoic effort and earn what's missing through discipline. They don't want your sympathy. They don't want your sunshine. They want you to see the real difficulty, name it plainly, and then point at the next concrete step. Anything else feels like you're not paying attention.
 
-### Meet the Self-Preservation Four: "Tenacity"
+### Meet the Farmer Four: "Tenacity"
 
 Here's what the research says about this subtype:
 
-> The Self-Preservation Four is long-suffering. As the countertype of the Fours, SP Fours are stoic in the face of their inner pain and they don't share it with others as much as the other two Fours. This is a person who learns to tolerate pain and to do without as a way of earning love. Instead of dwelling in envy, SP Fours act out their envy by working hard to get what others have and they lack.
+> The Farmer Four is long-suffering. As the countertype of the Fours, Farmer Fours are stoic in the face of their inner pain and they don't share it with others as much as the other two Fours. This is a person who learns to tolerate pain and to do without as a way of earning love. Instead of dwelling in envy, Farmer Fours act out their envy by working hard to get what others have and they lack.
 
 Three traits drive how they process communication:
 
@@ -54,7 +54,7 @@ The left column is emotional comfort. The right column is operational respect. F
 
 ---
 
-### Try it out: FREE Communication Optimizer for Self-Preservation Fours
+### Try it out: FREE Communication Optimizer for Farmer Fours
 
 Paste your draft message into your LLM, then paste the following prompt after it. The model will rewrite your message specifically for this subtype.
 
@@ -99,7 +99,7 @@ input_source: prior_thread_message
 
 ### This is one subtype out of twenty-seven.
 
-The Self-Preservation Four needs realism and respect for effort before they'll trust your message. Compare that to the Social Four ("Shame"), who filters through painful self-comparison and needs you to see their suffering without judgment. Or the Self-Preservation Two ("Privilege"), who wants warmth and belonging before anything else—the exact emotional tone that would feel patronizing to the Four. Same heart center, radically different entry points.
+The Farmer Four needs realism and respect for effort before they'll trust your message. Compare that to the Teamer Four ("Shame"), who filters through painful self-comparison and needs you to see their suffering without judgment. Or the Farmer Two ("Privilege"), who wants warmth and belonging before anything else—the exact emotional tone that would feel patronizing to the Four. Same heart center, radically different entry points.
 
 > ***Personalization isn't a nice-to-have. It's the difference between a message that gets read and one that gets filtered.***
 
